@@ -1,0 +1,145 @@
+Matched Translated Parent_Url,Matched Translated Tool_Url,Matched SX_TERM,Matched SX_CLASS_LABEL,SX_CLASS_ID,SX_CLASS_NR
+,skype,skype,spezifische anwendungssoftware,120.0,5.5
+,email,email,keine arbeitsmittel,10.0,K
+,verkaufsautomat,verkaufsautomat,keine arbeitsmittel,10.0,K
+,betriebssystem,betriebssystem,"betriebssysteme, systemsoftware ",46.0,5.2
+,pvcs,pvcs,tools zur sw-entwicklung und administration,119.0,5.4
+,netbeans,netbeans,tools zur sw-entwicklung und administration,119.0,5.4
+,xcode,xcode,tools zur sw-entwicklung und administration,119.0,5.4
+,content-management-system,content-management-system,spezifische anwendungssoftware,120.0,5.5
+,whatsapp,whatsapp,spezifische anwendungssoftware,120.0,5.5
+,abbyy finereader,abbyy finereader,spezifische anwendungssoftware,120.0,5.5
+,anwendungsserver,anwendungsserver,"server, netzwerktechnik inkl. software",31.0,4.3
+,windows server,windows server,"server, netzwerktechnik inkl. software",31.0,4.3
+,linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+,power shell,power shell,tools zur sw-entwicklung und administration,119.0,5.4
+,freebsd,freebsd,"betriebssysteme, systemsoftware ",46.0,5.2
+,matlab,matlab,spezifische anwendungssoftware,120.0,5.5
+,psm,psm,spezifische anwendungssoftware,120.0,5.5
+,posix,posix,"betriebssysteme, systemsoftware ",46.0,5.2
+,uml-tool,uml-tool,tools zur sw-entwicklung und administration,119.0,5.4
+,windows 7,windows 7,"betriebssysteme, systemsoftware ",46.0,5.2
+,ipsec,ipsec,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+,windows xp,windows xp,"betriebssysteme, systemsoftware ",46.0,5.2
+,mvs,mvs,"betriebssysteme, systemsoftware ",46.0,5.2
+,postscript,postscript,tools zur sw-entwicklung und administration,119.0,5.4
+,opengl,opengl,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+,directx,directx,tools zur sw-entwicklung und administration,119.0,5.4
+,jython,jython,tools zur sw-entwicklung und administration,119.0,5.4
+,mysql,mysql,datenbanken ,50.0,5.3
+,autodesk revit,autodesk revit,spezifische anwendungssoftware,120.0,5.5
+,archicad,archicad,spezifische anwendungssoftware,120.0,5.5
+,sketchup,sketchup,spezifische anwendungssoftware,120.0,5.5
+,autocad,autocad,spezifische anwendungssoftware,120.0,5.5
+,unix,unix,"betriebssysteme, systemsoftware ",46.0,5.2
+,altium designer,altium designer,tools zur sw-entwicklung und administration,119.0,5.4
+,catia,catia,spezifische anwendungssoftware,120.0,5.5
+,mastercam,mastercam,spezifische anwendungssoftware,120.0,5.5
+,cadwork,cadwork,spezifische anwendungssoftware,120.0,5.5
+,powermill,powermill,spezifische anwendungssoftware,120.0,5.5
+,labview,labview,tools zur sw-entwicklung und administration,119.0,5.4
+,omnitracker,omnitracker,spezifische anwendungssoftware,120.0,5.5
+,netware,netware,"betriebssysteme, systemsoftware ",46.0,5.2
+,cics,cics,"betriebssysteme, systemsoftware ",46.0,5.2
+,windows,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+,freertos,freertos,"betriebssysteme, systemsoftware ",46.0,5.2
+,ios,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+,windows vista,windows vista,"betriebssysteme, systemsoftware ",46.0,5.2
+,gnu,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+,windows 95,windows 95,"betriebssysteme, systemsoftware ",46.0,5.2
+,rfem,rfem,spezifische anwendungssoftware,120.0,5.5
+,solidworks,solidworks,spezifische anwendungssoftware,120.0,5.5
+,abaqus,abaqus,tools zur sw-entwicklung und administration,119.0,5.4
+,activex,activex,keine arbeitsmittel,10.0,K
+,flügel,flügel,"therapeutische hilfsmittel, sportgeräte, spielzeug, musikinstrumente ",67.0,8.1
+,xen,xen,"betriebssysteme, systemsoftware ",46.0,5.2
+,windows 2000,windows 2000,"betriebssysteme, systemsoftware ",46.0,5.2
+,ado.net,ado.net,tools zur sw-entwicklung und administration,119.0,5.4
+,oracle-datenbank,oracle-datenbank,datenbanken ,50.0,5.3
+,lernmanagementsystem,lernmanagementsystem,spezifische anwendungssoftware,120.0,5.5
+,drupal,drupal,spezifische anwendungssoftware,120.0,5.5
+,wordpress,wordpress,spezifische anwendungssoftware,120.0,5.5
+,stata,stata,spezifische anwendungssoftware,120.0,5.5
+,spss,spss,spezifische anwendungssoftware,120.0,5.5
+,hp-ux,hp-ux,"betriebssysteme, systemsoftware ",46.0,5.2
+,vmware esx,vmware esx,"server, netzwerktechnik inkl. software",31.0,4.3
+,aix,aix,"betriebssysteme, systemsoftware ",46.0,5.2
+,windows ce,windows ce,"betriebssysteme, systemsoftware ",46.0,5.2
+,moodle,moodle,spezifische anwendungssoftware,120.0,5.5
+,nginx,nginx,"server, netzwerktechnik inkl. software",31.0,4.3
+,apache tomcat,apache tomcat,"server, netzwerktechnik inkl. software",31.0,4.3
+,wincc,wincc,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+,asp.net,asp.net,tools zur sw-entwicklung und administration,119.0,5.4
+,libreoffice,libreoffice,standard-bürosoftware ,42.0,5.1
+,wordperfect,wordperfect,spezifische anwendungssoftware,120.0,5.5
+,windows forms,windows forms,tools zur sw-entwicklung und administration,119.0,5.4
+,systemsoftware,systemsoftware,zu allgemein,12.0,Z
+,mikroskop,mikroskop,elektronische messgeräte und hilfsmittel ,27.0,3.2
+,sqlite,sqlite,datenbanken ,50.0,5.3
+,mediawiki,mediawiki,spezifische anwendungssoftware,120.0,5.5
+,windows 8,windows 8,"betriebssysteme, systemsoftware ",46.0,5.2
+,hyper-v,hyper-v,"server, netzwerktechnik inkl. software",31.0,4.3
+,dv,dv,"scannerkassen, computerkassen, strichcodelesegeräte ",72.0,8.5
+,powerdesigner,powerdesigner,spezifische anwendungssoftware,120.0,5.5
+,dropbox,dropbox,spezifische anwendungssoftware,120.0,5.5
+,ios sdk,ios sdk,tools zur sw-entwicklung und administration,119.0,5.4
+,qnx,qnx,"betriebssysteme, systemsoftware ",46.0,5.2
+,outlook express,outlook express,standard-bürosoftware ,42.0,5.1
+,qmail,qmail,"server, netzwerktechnik inkl. software",31.0,4.3
+,mariadb,mariadb,datenbanken ,50.0,5.3
+,vmware esxi,vmware esxi,"server, netzwerktechnik inkl. software",31.0,4.3
+,vmware-server,vmware-server,"server, netzwerktechnik inkl. software",31.0,4.3
+,vmware fusion,vmware fusion,"betriebssysteme, systemsoftware ",46.0,5.2
+,cms,cms,spezifische anwendungssoftware,120.0,5.5
+,vm,vm,"betriebssysteme, systemsoftware ",46.0,5.2
+,virtualbox,virtualbox,"betriebssysteme, systemsoftware ",46.0,5.2
+,web-framework,web-framework,tools zur sw-entwicklung und administration,119.0,5.4
+,filemaker,filemaker,datenbanken ,50.0,5.3
+,debian,debian,"betriebssysteme, systemsoftware ",46.0,5.2
+,ubuntu,ubuntu,"betriebssysteme, systemsoftware ",46.0,5.2
+,vob,vob,"gesetzestexte, nachschlagewerk u.ä ",69.0,8.3
+,atmel avr,atmel avr,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+,bugzilla,bugzilla,tools zur sw-entwicklung und administration,119.0,5.4
+,redmine,redmine,spezifische anwendungssoftware,120.0,5.5
+,arch linux,arch linux,"betriebssysteme, systemsoftware ",46.0,5.2
+,latex,latex,spezifische anwendungssoftware,120.0,5.5
+,holos,holos,spezifische anwendungssoftware,120.0,5.5
+,essbase,essbase,datenbanken ,50.0,5.3
+,awk,awk,tools zur sw-entwicklung und administration,119.0,5.4
+,jquery,jquery,tools zur sw-entwicklung und administration,119.0,5.4
+,nastran,nastran,spezifische anwendungssoftware,120.0,5.5
+,cakephp,cakephp,tools zur sw-entwicklung und administration,119.0,5.4
+,soapui,soapui,spezifische anwendungssoftware,120.0,5.5
+,caml,caml,spezifische anwendungssoftware,120.0,5.5
+,icefaces,icefaces,tools zur sw-entwicklung und administration,119.0,5.4
+,richfaces,richfaces,tools zur sw-entwicklung und administration,119.0,5.4
+,mcafee virusscan,mcafee virusscan,standard-bürosoftware ,42.0,5.1
+,gimp,gimp,spezifische anwendungssoftware,120.0,5.5
+,magento,magento,spezifische anwendungssoftware,120.0,5.5
+,illustration,illustration,spezifische anwendungssoftware,120.0,5.5
+,cobol,cobol,tools zur sw-entwicklung und administration,119.0,5.4
+,präsentationsprogramm,präsentationsprogramm,standard-bürosoftware ,42.0,5.1
+,internet-browser,internet-browser,standard-bürosoftware ,42.0,5.1
+,phpstorm,phpstorm,tools zur sw-entwicklung und administration,119.0,5.4
+,jdeveloper,jdeveloper,tools zur sw-entwicklung und administration,119.0,5.4
+,windows presentation foundation,windows presentation foundation,keine arbeitsmittel,10.0,K
+,minitab,minitab,spezifische anwendungssoftware,120.0,5.5
+,opennebula,opennebula,tools zur sw-entwicklung und administration,119.0,5.4
+,centos,centos,"betriebssysteme, systemsoftware ",46.0,5.2
+,finanzsoftware,finanzsoftware,spezifische anwendungssoftware,120.0,5.5
+,david,david,spezifische anwendungssoftware,120.0,5.5
+,nagios,nagios,spezifische anwendungssoftware,120.0,5.5
+,mathcad,mathcad,spezifische anwendungssoftware,120.0,5.5
+,cron,cron,"server, netzwerktechnik inkl. software",31.0,4.3
+,xfire,xfire,tools zur sw-entwicklung und administration,119.0,5.4
+,rsync,rsync,"server, netzwerktechnik inkl. software",31.0,4.3
+,powerbuilder,powerbuilder,tools zur sw-entwicklung und administration,119.0,5.4
+,bricscad,bricscad,spezifische anwendungssoftware,120.0,5.5
+,autocad-architektur,autocad-architektur,spezifische anwendungssoftware,120.0,5.5
+,microstation,microstation,spezifische anwendungssoftware,120.0,5.5
+,corelcad,corelcad,spezifische anwendungssoftware,120.0,5.5
+,autodesk inventor,autodesk inventor,spezifische anwendungssoftware,120.0,5.5
+,macromedia,macromedia,spezifische anwendungssoftware,120.0,5.5
+,quarkxpress,quarkxpress,spezifische anwendungssoftware,120.0,5.5
+,arcgis,arcgis,spezifische anwendungssoftware,120.0,5.5
+,angularjs,angularjs,tools zur sw-entwicklung und administration,119.0,5.4

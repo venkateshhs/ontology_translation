@@ -1,0 +1,937 @@
+Matched Translated Tool_Url,Matched SX_TERM,Matched SX_CLASS_LABEL,SX_CLASS_ID,SX_CLASS_NR
+dropbox (dienst),dropbox,spezifische anwendungssoftware,120.0,5.5
+skype,skype,spezifische anwendungssoftware,120.0,5.5
+email,email,keine arbeitsmittel,10.0,K
+offenes semantisches framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+semantisches web,web,"server, netzwerktechnik inkl. software",31.0,4.3
+final fantasy crystal chronicles: echoes of time,final,spezifische anwendungssoftware,120.0,5.5
+adobe flash player,flash,tools zur sw-entwicklung und administration,119.0,5.4
+mario kart ds,ds,spezifische anwendungssoftware,120.0,5.5
+opera (webbrowser),opera,standard-bürosoftware ,42.0,5.1
+apache hive,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+internet explorer 7,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 7,internet,keine arbeitsmittel,10.0,K
+microsoft edge,edge,spezifische anwendungssoftware,120.0,5.5
+mac os,os,"betriebssysteme, systemsoftware ",46.0,5.2
+microsoft windows,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+verkaufsautomat,verkaufsautomat,keine arbeitsmittel,10.0,K
+betriebssystem,betriebssystem,"betriebssysteme, systemsoftware ",46.0,5.2
+gnu privacy guard,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+integrierte entwicklungsumgebung,entwicklungsumgebung,keine arbeitsmittel,10.0,K
+pvcs,pvcs,tools zur sw-entwicklung und administration,119.0,5.4
+gnu emacs,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+netbeans,netbeans,tools zur sw-entwicklung und administration,119.0,5.4
+xcode,xcode,tools zur sw-entwicklung und administration,119.0,5.4
+content-management-system,content-management-system,spezifische anwendungssoftware,120.0,5.5
+f sharp (programmiersprache),sharp,tools zur sw-entwicklung und administration,119.0,5.4
+proxy server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+whatsapp,whatsapp,spezifische anwendungssoftware,120.0,5.5
+palm os,os,"betriebssysteme, systemsoftware ",46.0,5.2
+palm os,palm,"handy, funkgerät, personenrufgerät ",55.0,6.2
+adobe photoshop lightroom,lightroom,spezifische anwendungssoftware,120.0,5.5
+adobe photoshop lightroom,photoshop,spezifische anwendungssoftware,120.0,5.5
+anwendungsserver,anwendungsserver,"server, netzwerktechnik inkl. software",31.0,4.3
+virtueller privater server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+power shell,shell,tools zur sw-entwicklung und administration,119.0,5.4
+power shell,power,zu allgemein,12.0,Z
+freebsd,freebsd,"betriebssysteme, systemsoftware ",46.0,5.2
+sichere shell,shell,tools zur sw-entwicklung und administration,119.0,5.4
+matlab,matlab,spezifische anwendungssoftware,120.0,5.5
+apache xerces,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+einfache api für xml,xml,tools zur sw-entwicklung und administration,119.0,5.4
+.net framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+psm,psm,spezifische anwendungssoftware,120.0,5.5
+posix,posix,"betriebssysteme, systemsoftware ",46.0,5.2
+uml-tool,uml-tool,tools zur sw-entwicklung und administration,119.0,5.4
+windows communication foundation,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+linux kernel,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 7,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+ipsec,ipsec,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+windows xp,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+super robot monkey team hyperforce go!,robot,"automatische, computergesteuerte maschinen ",21.0,2.2
+fafner im azure,azure,spezifische anwendungssoftware,120.0,5.5
+mobile suit gundam: twilight axis,axis,"server, netzwerktechnik inkl. software",31.0,4.3
+mobile suit gundam: hathaways flash,flash,tools zur sw-entwicklung und administration,119.0,5.4
+hydra (schach),hydra,spezifische anwendungssoftware,120.0,5.5
+mobile world congress mwc barcelona 1,world,spezifische anwendungssoftware,120.0,5.5
+mvs,mvs,"betriebssysteme, systemsoftware ",46.0,5.2
+verto studio 3d,3d,zu allgemein,12.0,Z
+wolfenstein 3d,3d,zu allgemein,12.0,Z
+postscript,postscript,tools zur sw-entwicklung und administration,119.0,5.4
+adobe photoshop,photoshop,spezifische anwendungssoftware,120.0,5.5
+opengl,opengl,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+directx,directx,tools zur sw-entwicklung und administration,119.0,5.4
+mac os runtime für java,os,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os runtime für java,java,tools zur sw-entwicklung und administration,119.0,5.4
+squawk virtuelle maschine,maschine,zu allgemein,12.0,Z
+virtuelle maschine,maschine,zu allgemein,12.0,Z
+microsoft silverlight,silverlight,tools zur sw-entwicklung und administration,119.0,5.4
+k virtuelle maschine k virtuelle maschine 1,maschine,zu allgemein,12.0,Z
+java (softwareplattform),java,tools zur sw-entwicklung und administration,119.0,5.4
+jython,jython,tools zur sw-entwicklung und administration,119.0,5.4
+google web toolkit,web,"server, netzwerktechnik inkl. software",31.0,4.3
+apache harmony,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+k virtuelle maschine,maschine,zu allgemein,12.0,Z
+java entwickler-kit,java,tools zur sw-entwicklung und administration,119.0,5.4
+microsoft word,word,standard-bürosoftware ,42.0,5.1
+microsoft sql server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft sql server,sql,datenbanken ,50.0,5.3
+mysql,mysql,datenbanken ,50.0,5.3
+die matrix online,matrix,zu allgemein,12.0,Z
+world of warcraft,world,spezifische anwendungssoftware,120.0,5.5
+world of warcraft: cataclysm,world,spezifische anwendungssoftware,120.0,5.5
+final fantasy xiv,final,spezifische anwendungssoftware,120.0,5.5
+final fantasy xiv: heavensward,final,spezifische anwendungssoftware,120.0,5.5
+final fantasy xiv (videospiel 2010),final,spezifische anwendungssoftware,120.0,5.5
+world of warcraft: warlords of draenor,world,spezifische anwendungssoftware,120.0,5.5
+rift (videospiel),rift,keine arbeitsmittel,10.0,K
+world of warcraft: mists of pandaria,world,spezifische anwendungssoftware,120.0,5.5
+final fantasy xiv: endwalker,final,spezifische anwendungssoftware,120.0,5.5
+world of warcraft: legion,world,spezifische anwendungssoftware,120.0,5.5
+world of warcraft: shadowlands,world,spezifische anwendungssoftware,120.0,5.5
+world of warcraft: the burning crusade,world,spezifische anwendungssoftware,120.0,5.5
+world of warcraft: schlacht um azeroth,world,spezifische anwendungssoftware,120.0,5.5
+final fantasy xiv: shadowbringers,final,spezifische anwendungssoftware,120.0,5.5
+final fantasy xiv: stormblood,final,spezifische anwendungssoftware,120.0,5.5
+eva online,eva,spezifische anwendungssoftware,120.0,5.5
+world of warcraft-klassiker,world,spezifische anwendungssoftware,120.0,5.5
+final fantasy xi,final,spezifische anwendungssoftware,120.0,5.5
+new world (videospiel),world,spezifische anwendungssoftware,120.0,5.5
+privater server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+requiem: memento mori,mori,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+apache opennlp,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+mercury mail transportsystem,mail,standard-bürosoftware ,42.0,5.1
+macbook pro,macbook,"pc, laptop, notebook, tablet ",29.0,4.1
+adobe illustrator,illustrator,spezifische anwendungssoftware,120.0,5.5
+autodesk maya,maya,spezifische anwendungssoftware,120.0,5.5
+autodesk maya,autodesk,spezifische anwendungssoftware,120.0,5.5
+autodesk revit,autodesk,spezifische anwendungssoftware,120.0,5.5
+autodesk revit,revit,spezifische anwendungssoftware,120.0,5.5
+archicad,archicad,spezifische anwendungssoftware,120.0,5.5
+sketchup,sketchup,spezifische anwendungssoftware,120.0,5.5
+autocad,autocad,spezifische anwendungssoftware,120.0,5.5
+unix,unix,"betriebssysteme, systemsoftware ",46.0,5.2
+altium designer,designer,zu allgemein,12.0,Z
+altium designer,altium,spezifische anwendungssoftware,120.0,5.5
+siemens nx,nx,spezifische anwendungssoftware,120.0,5.5
+eagle (programm),eagle,spezifische anwendungssoftware,120.0,5.5
+catia,catia,spezifische anwendungssoftware,120.0,5.5
+mastercam,mastercam,spezifische anwendungssoftware,120.0,5.5
+cadwork,cadwork,spezifische anwendungssoftware,120.0,5.5
+powermill,powermill,spezifische anwendungssoftware,120.0,5.5
+borland zusammen,borland,tools zur sw-entwicklung und administration,119.0,5.4
+jira (software),jira,spezifische anwendungssoftware,120.0,5.5
+labview,labview,tools zur sw-entwicklung und administration,119.0,5.4
+omnitracker,omnitracker,spezifische anwendungssoftware,120.0,5.5
+apache spark,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+oracle grid engine,grid,anlagen zur energieerzeugung und -umwandlung ,24.0,2.4
+oracle grid engine,oracle,datenbanken ,50.0,5.3
+univa grid engine,grid,anlagen zur energieerzeugung und -umwandlung ,24.0,2.4
+apache stanbol,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+ace online,ace,spezifische anwendungssoftware,120.0,5.5
+atlas (videospiel),atlas,spezifische anwendungssoftware,120.0,5.5
+grand theft auto v,auto,"pkw, taxi, motorrad, bus ",60.0,7.2
+globale agenda,agenda,spezifische anwendungssoftware,120.0,5.5
+world of warcraft: wrath of the lich king,king,"automatische, computergesteuerte maschinen ",21.0,2.2
+world of warcraft: wrath of the lich king,world,spezifische anwendungssoftware,120.0,5.5
+adobe indesign,indesign,spezifische anwendungssoftware,120.0,5.5
+compact disc,compact,tools zur sw-entwicklung und administration,119.0,5.4
+ieee 1394,ieee,keine arbeitsmittel,10.0,K
+novell open enterprise server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+coda (dateisystem),coda,spezifische anwendungssoftware,120.0,5.5
+netware,netware,"betriebssysteme, systemsoftware ",46.0,5.2
+cics,cics,"betriebssysteme, systemsoftware ",46.0,5.2
+netware core-protokoll,netware,"betriebssysteme, systemsoftware ",46.0,5.2
+ibm personal computer,computer,"pc, laptop, notebook, tablet ",29.0,4.1
+orca (unterstützende technologie),orca,spezifische anwendungssoftware,120.0,5.5
+dissoziierte presse,presse,keine arbeitsmittel,10.0,K
+oracle enterprise manager ops center,oracle,datenbanken ,50.0,5.3
+berkeley db,db,zu allgemein,12.0,Z
+fork (softwareentwicklung),fork,einfaches handwerkzeug ,15.0,1.1
+windows,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+qt (software),qt,tools zur sw-entwicklung und administration,119.0,5.4
+internet relay chat,chat,spezifische anwendungssoftware,120.0,5.5
+internet relay chat,internet,keine arbeitsmittel,10.0,K
+android (betriebssystem),android,"betriebssysteme, systemsoftware ",46.0,5.2
+freertos,freertos,"betriebssysteme, systemsoftware ",46.0,5.2
+ios,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+raspberry pi,pi,zu allgemein,12.0,Z
+windows 10,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os x v10.4,os,"betriebssysteme, systemsoftware ",46.0,5.2
+os x mountain lion,os,"betriebssysteme, systemsoftware ",46.0,5.2
+windows vista,vista,spezifische anwendungssoftware,120.0,5.5
+windows vista,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows für pen computing,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows mobil,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+newton os,os,"betriebssysteme, systemsoftware ",46.0,5.2
+nennen sie mich papa jack,jack,spezifische anwendungssoftware,120.0,5.5
+faze fm,fm,keine arbeitsmittel,10.0,K
+kompressor (software),kompressor,keine arbeitsmittel,10.0,K
+ace (komprimiertes dateiformat),ace,spezifische anwendungssoftware,120.0,5.5
+logic studio kompressor 1,kompressor,keine arbeitsmittel,10.0,K
+entdecken sie die karte,karte,keine arbeitsmittel,10.0,K
+wolfram mathematica,mathematica,spezifische anwendungssoftware,120.0,5.5
+android froyo,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android 11,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android sdk,android,"betriebssysteme, systemsoftware ",46.0,5.2
+apache cordova,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+windows 11,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+microsoft office mobile,office,standard-bürosoftware ,42.0,5.1
+android jelly bean,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android studio,android,"betriebssysteme, systemsoftware ",46.0,5.2
+nexus 10,nexus,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+android automotive,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android ndk,android,"betriebssysteme, systemsoftware ",46.0,5.2
+bluestacks android gaming-plattform 1,android,"betriebssysteme, systemsoftware ",46.0,5.2
+nexus 9,nexus,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+nexus 7 (2012),nexus,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+gnu c-bibliothek,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+android marshmallow,android,"betriebssysteme, systemsoftware ",46.0,5.2
+google nexus,nexus,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+eclipse (software),eclipse,tools zur sw-entwicklung und administration,119.0,5.4
+android 12,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android kitkat,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android 10,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android pie,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android oreo,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android 4.4,android,"betriebssysteme, systemsoftware ",46.0,5.2
+gnu,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+gnu gpl,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+windows phone,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+android auto,android,"betriebssysteme, systemsoftware ",46.0,5.2
+android auto,auto,"pkw, taxi, motorrad, bus ",60.0,7.2
+android 13,android,"betriebssysteme, systemsoftware ",46.0,5.2
+os x,os,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt,nt,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows me,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 95,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 3.1x,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+suse linux enterprise server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+suse linux enterprise server,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+klassisches mac os,os,"betriebssysteme, systemsoftware ",46.0,5.2
+brain fuck scheduler,brain,zu allgemein,12.0,Z
+windows 98,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os 9,os,"betriebssysteme, systemsoftware ",46.0,5.2
+gnu go,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+rfem,rfem,spezifische anwendungssoftware,120.0,5.5
+solidworks,solidworks,spezifische anwendungssoftware,120.0,5.5
+süßes zuhause 3d,3d,zu allgemein,12.0,Z
+abaqus,abaqus,tools zur sw-entwicklung und administration,119.0,5.4
+armstrong siddeley python,python,tools zur sw-entwicklung und administration,119.0,5.4
+delphi (software),delphi,tools zur sw-entwicklung und administration,119.0,5.4
+microsoft excel,excel,standard-bürosoftware ,42.0,5.1
+dat (software),dat,spezifische anwendungssoftware,120.0,5.5
+cd-rom heute,cd-rom,"peripheriegeräte (scanner, plotter, bildschirm) ",32.0,4.4
+activex,activex,keine arbeitsmittel,10.0,K
+ios 9,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os x,os,"betriebssysteme, systemsoftware ",46.0,5.2
+ios 11,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ios 10,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+hiphop für php,php,tools zur sw-entwicklung und administration,119.0,5.4
+flügel,flügel,"therapeutische hilfsmittel, sportgeräte, spielzeug, musikinstrumente ",67.0,8.1
+xen,xen,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 2000,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+apache ignite,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft access,access,datenbanken ,50.0,5.3
+lotus 1-2-3,lotus,standard-bürosoftware ,42.0,5.1
+integrierter datenspeicher,datenspeicher,keine arbeitsmittel,10.0,K
+datenbank für molekulare bewegungen,datenbank,datenbanken ,50.0,5.3
+apache cassandra,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache cassandra,cassandra,datenbanken ,50.0,5.3
+mimer sql,sql,datenbanken ,50.0,5.3
+ibm db2,db2,datenbanken ,50.0,5.3
+ado.net,ado.net,tools zur sw-entwicklung und administration,119.0,5.4
+oracle-datenbank,oracle-datenbank,datenbanken ,50.0,5.3
+lernmanagementsystem,lernmanagementsystem,spezifische anwendungssoftware,120.0,5.5
+drupal,drupal,spezifische anwendungssoftware,120.0,5.5
+ruby auf schienen,ruby,tools zur sw-entwicklung und administration,119.0,5.4
+wordpress,wordpress,spezifische anwendungssoftware,120.0,5.5
+treasury enterprise architecture framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+das open group architecture framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+sap enterprise architecture framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+fdic enterprise architecture framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+android wear,android,"betriebssysteme, systemsoftware ",46.0,5.2
+stata,stata,spezifische anwendungssoftware,120.0,5.5
+java astrodynamics toolkit,java,tools zur sw-entwicklung und administration,119.0,5.4
+sas (software),sas,spezifische anwendungssoftware,120.0,5.5
+spss,spss,spezifische anwendungssoftware,120.0,5.5
+aktive agenda,agenda,spezifische anwendungssoftware,120.0,5.5
+hp-ux,hp-ux,"betriebssysteme, systemsoftware ",46.0,5.2
+windows (betriebssystem),windows,"betriebssysteme, systemsoftware ",46.0,5.2
+vmware esx,esx,"server, netzwerktechnik inkl. software",31.0,4.3
+vmware esx,vmware,"betriebssysteme, systemsoftware ",46.0,5.2
+red hat enterprise linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+aix,aix,"betriebssysteme, systemsoftware ",46.0,5.2
+nucleus rtos,rtos,"betriebssysteme, systemsoftware ",46.0,5.2
+apache toskana,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+jboss enterprise soa-plattform,jboss,tools zur sw-entwicklung und administration,119.0,5.4
+apache activemq,activemq,tools zur sw-entwicklung und administration,119.0,5.4
+apache activemq,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+fuse services framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+sicherung esb,esb,keine arbeitsmittel,10.0,K
+apache thrift,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+windows ce,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+iphone 7,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+iphone 5,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+apple ios,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+transportable anwendungsumgebung,anwendungsumgebung,zu allgemein,12.0,Z
+windows 10 mobile,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+macintosh 128k,macintosh,"pc, laptop, notebook, tablet ",29.0,4.1
+kde plasma 5,plasma,handgesteuerte maschinen ,20.0,2.1
+oracle business intelligence suite enterprise edition,oracle,datenbanken ,50.0,5.3
+suchbasierte anwendung,anwendung,zu allgemein,12.0,Z
+apache hadoop,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache hadoop,hadoop,tools zur sw-entwicklung und administration,119.0,5.4
+iphone 5s,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+iphone 6s,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+htc evo 3d,3d,zu allgemein,12.0,Z
+semantisches mediawiki,mediawiki,spezifische anwendungssoftware,120.0,5.5
+apache jena,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+the great ace attorney: abenteuer,ace,spezifische anwendungssoftware,120.0,5.5
+final fantasy vi,final,spezifische anwendungssoftware,120.0,5.5
+amazon elastic compute cloud,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft powerpoint,powerpoint,standard-bürosoftware ,42.0,5.1
+ibm pc dos,pc,"pc, laptop, notebook, tablet ",29.0,4.1
+ibm pc dos,dos,tools zur sw-entwicklung und administration,119.0,5.4
+moodle,moodle,spezifische anwendungssoftware,120.0,5.5
+windows 9x,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt 3.1,nt,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt 3.1,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+microsoft office,office,standard-bürosoftware ,42.0,5.1
+macintosh se,macintosh,"pc, laptop, notebook, tablet ",29.0,4.1
+mozilla thunderbird,thunderbird,standard-bürosoftware ,42.0,5.1
+mozilla thunderbird,mozilla,zu allgemein,12.0,Z
+internet message access protocol,internet,keine arbeitsmittel,10.0,K
+internet message access protocol,access,datenbanken ,50.0,5.3
+windows mail,mail,standard-bürosoftware ,42.0,5.1
+windows mail,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+microsoft mail microsoft mail 1,mail,standard-bürosoftware ,42.0,5.1
+apple mail,mail,standard-bürosoftware ,42.0,5.1
+kerio connect,connect,zu allgemein,12.0,Z
+microsoft outlook,outlook,standard-bürosoftware ,42.0,5.1
+microsoft exchange server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft exchange server,exchange,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft mail,mail,standard-bürosoftware ,42.0,5.1
+internationale e-mail,e-mail,standard-bürosoftware ,42.0,5.1
+eudora ose,ose,"betriebssysteme, systemsoftware ",46.0,5.2
+opera mail,mail,standard-bürosoftware ,42.0,5.1
+opera mail,opera,standard-bürosoftware ,42.0,5.1
+nginx,nginx,"server, netzwerktechnik inkl. software",31.0,4.3
+apache http-server,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft forefront threat management gateway,forefront,tools zur sw-entwicklung und administration,119.0,5.4
+apache tomcat,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache tomcat,tomcat,"server, netzwerktechnik inkl. software",31.0,4.3
+eclipse neoscada,eclipse,tools zur sw-entwicklung und administration,119.0,5.4
+wincc,wincc,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+asp.net,asp.net,tools zur sw-entwicklung und administration,119.0,5.4
+libreoffice,libreoffice,standard-bürosoftware ,42.0,5.1
+wordperfect,wordperfect,spezifische anwendungssoftware,120.0,5.5
+windows forms,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+systemsoftware,systemsoftware,zu allgemein,12.0,Z
+shell (computer),shell,tools zur sw-entwicklung und administration,119.0,5.4
+mikroskop,mikroskop,elektronische messgeräte und hilfsmittel ,27.0,3.2
+sqlite,sqlite,datenbanken ,50.0,5.3
+kaspersky internet security,internet,keine arbeitsmittel,10.0,K
+kubisches tcp,tcp,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2008,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2008,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+schnelles tcp,tcp,"server, netzwerktechnik inkl. software",31.0,4.3
+java agent development framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+java agent development framework,java,tools zur sw-entwicklung und administration,119.0,5.4
+talktalk tv store,tv,keine arbeitsmittel,10.0,K
+cisco ios,cisco,"server, netzwerktechnik inkl. software",31.0,4.3
+cisco ios,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os x snow leopard,os,"betriebssysteme, systemsoftware ",46.0,5.2
+windows holografisch,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+j sharp,sharp,tools zur sw-entwicklung und administration,119.0,5.4
+autodesk softimage,autodesk,spezifische anwendungssoftware,120.0,5.5
+heuschrecke 3d,3d,zu allgemein,12.0,Z
+sql server-integrationsdienste,sql,datenbanken ,50.0,5.3
+app-erfinder für android,android,"betriebssysteme, systemsoftware ",46.0,5.2
+ibm cognos business intelligence,cognos,spezifische anwendungssoftware,120.0,5.5
+agilent vee,agilent,tools zur sw-entwicklung und administration,119.0,5.4
+mixer (software),mixer,elektrische geräte ,18.0,1.3
+scanner düster,scanner,"peripheriegeräte (scanner, plotter, bildschirm) ",32.0,4.4
+gnu zebra,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+java virtuelle maschine,java,tools zur sw-entwicklung und administration,119.0,5.4
+java virtuelle maschine,maschine,zu allgemein,12.0,Z
+mobiler browser,browser,standard-bürosoftware ,42.0,5.1
+safari (webbrowser),safari,standard-bürosoftware ,42.0,5.1
+internet explorer,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer,internet,keine arbeitsmittel,10.0,K
+firefox 2,firefox,standard-bürosoftware ,42.0,5.1
+plato (computersystem),plato,spezifische anwendungssoftware,120.0,5.5
+anwendung zur sozialen katalogisierung,anwendung,zu allgemein,12.0,Z
+tiki wiki cms groupware,groupware,spezifische anwendungssoftware,120.0,5.5
+tiki wiki cms groupware,cms,spezifische anwendungssoftware,120.0,5.5
+tiki wiki cms groupware,wiki,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+mediawiki,mediawiki,spezifische anwendungssoftware,120.0,5.5
+windows server update-dienste,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server update-dienste,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows phone 7,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server 2012 r2,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2012 r2,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows mobile 6.5,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows embedded ce 6.0,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 8,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+internet explorer 4,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 4,internet,keine arbeitsmittel,10.0,K
+hyper-v,hyper-v,"server, netzwerktechnik inkl. software",31.0,4.3
+windows mobile 2003,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows-grundlagen für ältere pcs,pcs,"pc, laptop, notebook, tablet ",29.0,4.1
+mach (kernel),mach,spezifische anwendungssoftware,120.0,5.5
+windows phone 8,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server 2012,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2012,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows home server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows home server,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server 2003,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2003,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt 4.0,nt,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt 4.0,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+internet explorer 11,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 11,internet,keine arbeitsmittel,10.0,K
+windows xp professional x64 edition,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows home server 2011,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows home server 2011,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server 2022,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2022,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows iot,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows phone 8.1,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows movie maker,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 2.0,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows media player,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server 2008 r2,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2008 r2,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 3.1,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server 2016,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2016,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows installer,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt 3.51,nt,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt 3.51,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows embedded compact,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows embedded compact,compact,tools zur sw-entwicklung und administration,119.0,5.4
+internet explorer 8,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 8,internet,keine arbeitsmittel,10.0,K
+windows 1.0,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+internet explorer 6,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 6,internet,keine arbeitsmittel,10.0,K
+internet explorer 9,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 9,internet,keine arbeitsmittel,10.0,K
+windows nt 3.5,nt,"betriebssysteme, systemsoftware ",46.0,5.2
+windows nt 3.5,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+internet explorer 5,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 5,internet,keine arbeitsmittel,10.0,K
+internet explorer 10,explorer,standard-bürosoftware ,42.0,5.1
+internet explorer 10,internet,keine arbeitsmittel,10.0,K
+windows embedded automotive,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows rt,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows rt,rt,spezifische anwendungssoftware,120.0,5.5
+windows pe,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 8.1,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server 2019,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server 2019,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows embedded compact 7,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows embedded compact 7,compact,tools zur sw-entwicklung und administration,119.0,5.4
+windows 3.0,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows update,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows embedded-industrie,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+dv,dv,"scannerkassen, computerkassen, strichcodelesegeräte ",72.0,8.5
+intelligente agenten von jack,jack,spezifische anwendungssoftware,120.0,5.5
+kain und abel (software) kain und abel 1,abel,spezifische anwendungssoftware,120.0,5.5
+powerdesigner,powerdesigner,spezifische anwendungssoftware,120.0,5.5
+dropbox,dropbox,spezifische anwendungssoftware,120.0,5.5
+apache nutch,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+ipad (4. generation),ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ipad air,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ios 12,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ipad mini 2,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ipad (1. generation),ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ipad 2,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ipad pro,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ios 7,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ipad mini (1. generation),ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ipad air 2,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ios 8,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ipad (3. generation),ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ios 4,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ipad mini 4,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+ios 6,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ios 5,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ios sdk,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ipad mini 3,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+iphone os 3,os,"betriebssysteme, systemsoftware ",46.0,5.2
+iphone os 3,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+ipad mini,ipad,"pc, laptop, notebook, tablet ",29.0,4.1
+system center virtual machine manager,machine,zu allgemein,12.0,Z
+gnu lesser general public license,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+qnx,qnx,"betriebssysteme, systemsoftware ",46.0,5.2
+android tactical assault kit,android,"betriebssysteme, systemsoftware ",46.0,5.2
+microsoft azure,azure,spezifische anwendungssoftware,120.0,5.5
+opengl es,opengl,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+apache pivot,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+adobe flash catalyst,catalyst,spezifische anwendungssoftware,120.0,5.5
+adobe flash catalyst,flash,tools zur sw-entwicklung und administration,119.0,5.4
+david williamson,david,spezifische anwendungssoftware,120.0,5.5
+rex pickett,rex,spezifische anwendungssoftware,120.0,5.5
+windows xp media center edition,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+outlook express,outlook,standard-bürosoftware ,42.0,5.1
+microsoft office 2010,office,standard-bürosoftware ,42.0,5.1
+windows messenger,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows-dienste für unix,unix,"betriebssysteme, systemsoftware ",46.0,5.2
+microsoft netmeeting,netmeeting,spezifische anwendungssoftware,120.0,5.5
+windows neptun,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows media center,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows odyssee,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+rolls-royce merlin,merlin,spezifische anwendungssoftware,120.0,5.5
+kostenloses pascal,pascal,tools zur sw-entwicklung und administration,119.0,5.4
+apache hbase,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft basic,basic,tools zur sw-entwicklung und administration,119.0,5.4
+apache accumulo,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+oracle nosql-datenbank,oracle,datenbanken ,50.0,5.3
+apache phoenix,phoenix,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+apache phoenix,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache trafodion,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft host integration server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+java opengl,java,tools zur sw-entwicklung und administration,119.0,5.4
+java opengl,opengl,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+blackberry 10,blackberry,"handy, funkgerät, personenrufgerät ",55.0,6.2
+mac os x lion,os,"betriebssysteme, systemsoftware ",46.0,5.2
+opera mobile,opera,standard-bürosoftware ,42.0,5.1
+sailfish os,os,"betriebssysteme, systemsoftware ",46.0,5.2
+abs-cbn tv plus,tv,keine arbeitsmittel,10.0,K
+qmail,qmail,"server, netzwerktechnik inkl. software",31.0,4.3
+apache lucene,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache tika,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache solr,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache oodt,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+brain assist,assist,spezifische anwendungssoftware,120.0,5.5
+brain assist,brain,zu allgemein,12.0,Z
+die insel von dr. brain,brain,zu allgemein,12.0,Z
+wo in north dakota ist carmen sandiego%3f?,dakota,keine arbeitsmittel,10.0,K
+schloss von dr. brain,brain,zu allgemein,12.0,Z
+der verlorene verstand von dr. brain,brain,zu allgemein,12.0,Z
+where in the world is carmen sandiego%3f (videospiel von 1985),world,spezifische anwendungssoftware,120.0,5.5
+where in the world is carmen sandiego%3f (videospiel 2011),world,spezifische anwendungssoftware,120.0,5.5
+brain quest klasse 5 und 6,brain,zu allgemein,12.0,Z
+kanji sonomama rakubiki jiten ds,ds,spezifische anwendungssoftware,120.0,5.5
+brain quest klasse 3 und 4,brain,zu allgemein,12.0,Z
+der zeitsprung von dr. brain,brain,zu allgemein,12.0,Z
+best of tests ds,ds,spezifische anwendungssoftware,120.0,5.5
+where in the world is carmen sandiego%3f (1996 videospiel),world,spezifische anwendungssoftware,120.0,5.5
+mariadb,mariadb,datenbanken ,50.0,5.3
+vmware workstation,workstation,"pc, laptop, notebook, tablet ",29.0,4.1
+vmware workstation,vmware,"betriebssysteme, systemsoftware ",46.0,5.2
+vmware esxi,esxi,"betriebssysteme, systemsoftware ",46.0,5.2
+vmware esxi,vmware,"betriebssysteme, systemsoftware ",46.0,5.2
+vmware-server,vmware-server,"server, netzwerktechnik inkl. software",31.0,4.3
+eingebetteter hypervisor,hypervisor,"betriebssysteme, systemsoftware ",46.0,5.2
+parallels server für mac,server,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft virtual server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+vmware fusion,vmware,"betriebssysteme, systemsoftware ",46.0,5.2
+cms,cms,spezifische anwendungssoftware,120.0,5.5
+vm,vm,"betriebssysteme, systemsoftware ",46.0,5.2
+virtualbox,virtualbox,"betriebssysteme, systemsoftware ",46.0,5.2
+kernelbasierte virtuelle maschine kvm 1,maschine,zu allgemein,12.0,Z
+vmware workstation player,workstation,"pc, laptop, notebook, tablet ",29.0,4.1
+vmware workstation player,vmware,"betriebssysteme, systemsoftware ",46.0,5.2
+kernelbasierte virtuelle maschine,maschine,zu allgemein,12.0,Z
+oracle vm server für sparc,server,"server, netzwerktechnik inkl. software",31.0,4.3
+oracle vm server für sparc,vm,"betriebssysteme, systemsoftware ",46.0,5.2
+oracle vm server für sparc,oracle,datenbanken ,50.0,5.3
+web-framework,web-framework,tools zur sw-entwicklung und administration,119.0,5.4
+django (webframework),django,tools zur sw-entwicklung und administration,119.0,5.4
+gnu multiple precision arithmetic library,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+filemaker,filemaker,datenbanken ,50.0,5.3
+autodesk motionbuilder,autodesk,spezifische anwendungssoftware,120.0,5.5
+tru64 unix,unix,"betriebssysteme, systemsoftware ",46.0,5.2
+universelle windows-plattform,windows-plattform,"betriebssysteme, systemsoftware ",46.0,5.2
+ubuntu touch,ubuntu,"betriebssysteme, systemsoftware ",46.0,5.2
+ibm aix,aix,"betriebssysteme, systemsoftware ",46.0,5.2
+universelle windows-plattform universelle windows-plattform 1,windows-plattform,"betriebssysteme, systemsoftware ",46.0,5.2
+mozilla prisma,mozilla,zu allgemein,12.0,Z
+harvest moon ds,ds,spezifische anwendungssoftware,120.0,5.5
+farbe von ds,ds,spezifische anwendungssoftware,120.0,5.5
+farbe von ds,farbe,notools,12.0,N
+windows live spaces,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+elite (videospiel),elite,keine arbeitsmittel,10.0,K
+die jack lalanne show,jack,spezifische anwendungssoftware,120.0,5.5
+frauen im web,web,"server, netzwerktechnik inkl. software",31.0,4.3
+neuronaler designer,designer,zu allgemein,12.0,Z
+alleine bradley,bradley,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+suse linux enterprise,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+debian,debian,"betriebssysteme, systemsoftware ",46.0,5.2
+ubuntu,ubuntu,"betriebssysteme, systemsoftware ",46.0,5.2
+microsoft office xp,office,standard-bürosoftware ,42.0,5.1
+werkbank (amigaos),werkbank,einfaches handwerkzeug ,15.0,1.1
+vob,vob,"gesetzestexte, nachschlagewerk u.ä ",69.0,8.3
+erweitertes vob,vob,"gesetzestexte, nachschlagewerk u.ä ",69.0,8.3
+imc famos,famos,spezifische anwendungssoftware,120.0,5.5
+microsoft power platform,power,zu allgemein,12.0,Z
+microsoft power bi,bi,spezifische anwendungssoftware,120.0,5.5
+microsoft power bi,power,zu allgemein,12.0,Z
+oracle discoverer,oracle,datenbanken ,50.0,5.3
+ibm cognos analytics,cognos,spezifische anwendungssoftware,120.0,5.5
+iphone 6,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+macos high sierra,macos,"betriebssysteme, systemsoftware ",46.0,5.2
+atmel avr,atmel,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+super swing golf,swing,unsichere zuordnung,11.0,U
+big brain academy: wii-abschluss,brain,zu allgemein,12.0,Z
+origin (datenanalysesoftware),origin,spezifische anwendungssoftware,120.0,5.5
+web open font-format,web,"server, netzwerktechnik inkl. software",31.0,4.3
+rechenknoten linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+gnu hurd,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+linux mit verbesserter sicherheit,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+opengl utility toolkit,opengl,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+iris gl,iris,spezifische anwendungssoftware,120.0,5.5
+öffnen sie inventor,inventor,spezifische anwendungssoftware,120.0,5.5
+macos ventura,macos,"betriebssysteme, systemsoftware ",46.0,5.2
+kern opengl,opengl,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+adobe connect,connect,zu allgemein,12.0,Z
+automotive-taugliches linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+bugzilla,bugzilla,tools zur sw-entwicklung und administration,119.0,5.4
+perforce helix alm 1,perforce,tools zur sw-entwicklung und administration,119.0,5.4
+redmine,redmine,spezifische anwendungssoftware,120.0,5.5
+apache bloodhound,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache ofbiz,ofbiz,spezifische anwendungssoftware,120.0,5.5
+apache ofbiz,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+jack bros.,jack,spezifische anwendungssoftware,120.0,5.5
+forefront identity manager,forefront,tools zur sw-entwicklung und administration,119.0,5.4
+netiq edirectory,edirectory,"server, netzwerktechnik inkl. software",31.0,4.3
+arch linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+ucsd pascal,pascal,tools zur sw-entwicklung und administration,119.0,5.4
+gnu fortran,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+gnu fortran,fortran,tools zur sw-entwicklung und administration,119.0,5.4
+oracle solaris studio,oracle,datenbanken ,50.0,5.3
+windows-subsystem für linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+symantec endpoint protection,symantec,keine arbeitsmittel,10.0,K
+webbasiertes voip,voip,"telefonanlagen, fax ",57.0,6.4
+apache mesos,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+veritas cluster server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+veritas cluster server,cluster,zu allgemein,12.0,Z
+parallele virtuelle maschine,maschine,zu allgemein,12.0,Z
+virtueller linux-server,linux-server,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft cluster server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft cluster server,cluster,zu allgemein,12.0,Z
+windows unter windows,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+glasgow haskell compiler,compiler,tools zur sw-entwicklung und administration,119.0,5.4
+gnu texmacs,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+microsoft word für mac 1,word,standard-bürosoftware ,42.0,5.1
+ibm lotus word pro,lotus,standard-bürosoftware ,42.0,5.1
+ibm lotus word pro,word,standard-bürosoftware ,42.0,5.1
+quark copydesk,quark,spezifische anwendungssoftware,120.0,5.5
+microsoft word mobile für windows 10 1,word,standard-bürosoftware ,42.0,5.1
+microsoft word mobile für windows 10 1,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+elektrischer bleistift,bleistift,einfaches schreibzeug ,54.0,6.1
+bravo (herausgeber),bravo,spezifische anwendungssoftware,120.0,5.5
+pages (textverarbeitung) pages für ios und ipados 1,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os x 10.4,os,"betriebssysteme, systemsoftware ",46.0,5.2
+suse linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os x 10.5,os,"betriebssysteme, systemsoftware ",46.0,5.2
+latex,latex,spezifische anwendungssoftware,120.0,5.5
+vb watch,vb,tools zur sw-entwicklung und administration,119.0,5.4
+microsoft office live,office,standard-bürosoftware ,42.0,5.1
+darwin (betriebssystem),darwin,spezifische anwendungssoftware,120.0,5.5
+ios 14,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+iphone os 1,os,"betriebssysteme, systemsoftware ",46.0,5.2
+iphone os 1,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+ios 13,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+finder (software),finder,standard-bürosoftware ,42.0,5.1
+ios 15,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+iphone 5c,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+ios 16,ios,"betriebssysteme, systemsoftware ",46.0,5.2
+ibm cobol,cobol,tools zur sw-entwicklung und administration,119.0,5.4
+jboss developer studio,jboss,tools zur sw-entwicklung und administration,119.0,5.4
+ole db für olap,db,zu allgemein,12.0,Z
+ole db für olap,ole,"betriebssysteme, systemsoftware ",46.0,5.2
+ole db für olap,olap,datenbanken ,50.0,5.3
+apache kylin,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+holos,holos,spezifische anwendungssoftware,120.0,5.5
+essbase,essbase,datenbanken ,50.0,5.3
+apache pinot,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+oracle olap,oracle,datenbanken ,50.0,5.3
+oracle olap,olap,datenbanken ,50.0,5.3
+toolkit zur programmierung mobiler roboter,roboter,"automatische, computergesteuerte maschinen ",21.0,2.2
+windows live messenger,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+palm pre,palm,"handy, funkgerät, personenrufgerät ",55.0,6.2
+nexus (standard),nexus,computer für die steuerung von maschinen und anlagen [auch sw] ,30.0,4.2
+windows live call,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+inter-asterisk exchange,exchange,"server, netzwerktechnik inkl. software",31.0,4.3
+mapinfo professional,mapinfo,spezifische anwendungssoftware,120.0,5.5
+xquery-api für java,java,tools zur sw-entwicklung und administration,119.0,5.4
+sift workstation – digitale forensik und verteilung von vorfallreaktionen,workstation,"pc, laptop, notebook, tablet ",29.0,4.1
+sap ariba,ariba,spezifische anwendungssoftware,120.0,5.5
+awk,awk,tools zur sw-entwicklung und administration,119.0,5.4
+jquery,jquery,tools zur sw-entwicklung und administration,119.0,5.4
+zeus (malware),zeus,zu allgemein,12.0,Z
+java data mining,java,tools zur sw-entwicklung und administration,119.0,5.4
+oracle data mining,oracle,datenbanken ,50.0,5.3
+nastran,nastran,spezifische anwendungssoftware,120.0,5.5
+cakephp,cakephp,tools zur sw-entwicklung und administration,119.0,5.4
+mutt & co,co,zu allgemein,12.0,Z
+skype for business-server,skype,spezifische anwendungssoftware,120.0,5.5
+oracle intelligent advisor,oracle,datenbanken ,50.0,5.3
+confluence (software),confluence,spezifische anwendungssoftware,120.0,5.5
+coda (dokumenteditor),coda,spezifische anwendungssoftware,120.0,5.5
+google public data explorer,explorer,standard-bürosoftware ,42.0,5.1
+microsoft infopath,infopath,tools zur sw-entwicklung und administration,119.0,5.4
+apache hama,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache ambari,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache storm,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache zookeeper,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+python scoop (software),python,tools zur sw-entwicklung und administration,119.0,5.4
+apache nifi,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+mac os x v10.2,os,"betriebssysteme, systemsoftware ",46.0,5.2
+red hat linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+ibm cloud computing,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft azure microsoft azure 1,azure,spezifische anwendungssoftware,120.0,5.5
+oracle application testing suite,oracle,datenbanken ,50.0,5.3
+apache axis2,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+soapui,soapui,spezifische anwendungssoftware,120.0,5.5
+oracle cloud,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+oracle cloud,oracle,datenbanken ,50.0,5.3
+xml-schnittstelle für netzwerkdienste,xml-schnittstelle,tools zur sw-entwicklung und administration,119.0,5.4
+gnu bison,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+caml,caml,spezifische anwendungssoftware,120.0,5.5
+nucleus cms,cms,spezifische anwendungssoftware,120.0,5.5
+exponent cms,cms,spezifische anwendungssoftware,120.0,5.5
+oracle advertising und customer experience (cx),oracle,datenbanken ,50.0,5.3
+oracle crm,crm,spezifische anwendungssoftware,120.0,5.5
+oracle crm,oracle,datenbanken ,50.0,5.3
+sap crm,crm,spezifische anwendungssoftware,120.0,5.5
+life360 family locator – gps-tracker für android find 1,android,"betriebssysteme, systemsoftware ",46.0,5.2
+java web start,web,"server, netzwerktechnik inkl. software",31.0,4.3
+java web start,java,tools zur sw-entwicklung und administration,119.0,5.4
+icefaces,icefaces,tools zur sw-entwicklung und administration,119.0,5.4
+gnu-compiler für java,java,tools zur sw-entwicklung und administration,119.0,5.4
+richfaces,richfaces,tools zur sw-entwicklung und administration,119.0,5.4
+trend micro internet security,internet,keine arbeitsmittel,10.0,K
+atari falcon,falcon,spezifische anwendungssoftware,120.0,5.5
+avg antivirus avg 1,avg,keine arbeitsmittel,10.0,K
+mks vir,mks,spezifische anwendungssoftware,120.0,5.5
+persönliche firewall von online armor,firewall,tools zur sw-entwicklung und administration,119.0,5.4
+avg antivirus,avg,keine arbeitsmittel,10.0,K
+panda cloud antivirus,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+apt (software),apt,"betriebssysteme, systemsoftware ",46.0,5.2
+apache maven,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache flink,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache heron,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache kafka,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache samza,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache rocketmq,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache apex,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache flex,flex,angetriebene handwerkzeuge ,19.0,1.4
+apache flex,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+vertrautes linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+gimp,gimp,spezifische anwendungssoftware,120.0,5.5
+ifs ab,ifs,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+eclipse erp,eclipse,tools zur sw-entwicklung und administration,119.0,5.4
+oracle cloud enterprise resource planning,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+oracle cloud enterprise resource planning,oracle,datenbanken ,50.0,5.3
+os 2200,os,"betriebssysteme, systemsoftware ",46.0,5.2
+allgemeines umfassendes betriebssystem,betriebssystem,"betriebssysteme, systemsoftware ",46.0,5.2
+windows multipoint server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows multipoint server,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+chrome os,os,"betriebssysteme, systemsoftware ",46.0,5.2
+windows 3.x,3.x,tools zur sw-entwicklung und administration,119.0,5.4
+windows 3.x,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows server essentials,server,"server, netzwerktechnik inkl. software",31.0,4.3
+windows server essentials,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+samba (software),samba,"betriebssysteme, systemsoftware ",46.0,5.2
+ubuntu (betriebssystem),ubuntu,"betriebssysteme, systemsoftware ",46.0,5.2
+linux mint,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os x server 1.0,server,"server, netzwerktechnik inkl. software",31.0,4.3
+mac os x server 1.0,os,"betriebssysteme, systemsoftware ",46.0,5.2
+alegro pcs,pcs,"pc, laptop, notebook, tablet ",29.0,4.1
+opera mini,opera,standard-bürosoftware ,42.0,5.1
+java pathfinder,java,tools zur sw-entwicklung und administration,119.0,5.4
+apache mxnet,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache mahout,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache systemml,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+palm tx,palm,"handy, funkgerät, personenrufgerät ",55.0,6.2
+adobe acrobat,acrobat,spezifische anwendungssoftware,120.0,5.5
+windows defender,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+ibm informix,informix,datenbanken ,50.0,5.3
+linter sql rdbms,rdbms,datenbanken ,50.0,5.3
+linter sql rdbms,sql,datenbanken ,50.0,5.3
+sap hana,hana,datenbanken ,50.0,5.3
+macintosh plus,macintosh,"pc, laptop, notebook, tablet ",29.0,4.1
+macintosh 512k,macintosh,"pc, laptop, notebook, tablet ",29.0,4.1
+paralleles ata,ata,"standards, modelle, konzepte (v.a. it bezogen) ",73.0,8.6
+macbook air,macbook,"pc, laptop, notebook, tablet ",29.0,4.1
+magento,magento,spezifische anwendungssoftware,120.0,5.5
+concierge osgi,osgi,tools zur sw-entwicklung und administration,119.0,5.4
+ibm lotus expeditor,lotus,standard-bürosoftware ,42.0,5.1
+apache sling,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache widder,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache felix,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache flume,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+jetty (webserver),jetty,tools zur sw-entwicklung und administration,119.0,5.4
+apache impala,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+apache couchdb,couchdb,datenbanken ,50.0,5.3
+apache couchdb,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+innerhalb von gnss,gnss,spezifische anwendungssoftware,120.0,5.5
+windows mixed reality,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+azure (designmagazin),azure,spezifische anwendungssoftware,120.0,5.5
+gleichzeitiges dos,dos,tools zur sw-entwicklung und administration,119.0,5.4
+mac os x leopard,os,"betriebssysteme, systemsoftware ",46.0,5.2
+verteiltes zugangskontrollsystem,zugangskontrollsystem,keine arbeitsmittel,10.0,K
+dynamisches dns,dns,datenbanken ,50.0,5.3
+cisco security agent,cisco,"server, netzwerktechnik inkl. software",31.0,4.3
+windows virtual pc windows virtual pc 1,pc,"pc, laptop, notebook, tablet ",29.0,4.1
+windows virtual pc windows virtual pc 1,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+parallels workstation extreme,workstation,"pc, laptop, notebook, tablet ",29.0,4.1
+virtual machine manager,machine,zu allgemein,12.0,Z
+virtueller windows-pc,windows-pc,"pc, laptop, notebook, tablet ",29.0,4.1
+windows powershell,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows powershell,powershell,tools zur sw-entwicklung und administration,119.0,5.4
+e-mail (windows),e-mail,standard-bürosoftware ,42.0,5.1
+visual foxpro,foxpro,tools zur sw-entwicklung und administration,119.0,5.4
+tm und kultmanie,tm,zu allgemein,12.0,Z
+david gillespie (autor),david,spezifische anwendungssoftware,120.0,5.5
+illustration,illustration,spezifische anwendungssoftware,120.0,5.5
+cobol,cobol,tools zur sw-entwicklung und administration,119.0,5.4
+micro focus international,focus,keine arbeitsmittel,10.0,K
+windows media,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+präsentationsprogramm,präsentationsprogramm,standard-bürosoftware ,42.0,5.1
+bibliotheken in second life,bibliotheken,tools zur sw-entwicklung und administration,119.0,5.4
+wählen sie das betriebssystem aus,betriebssystem,"betriebssysteme, systemsoftware ",46.0,5.2
+internet-browser,internet-browser,standard-bürosoftware ,42.0,5.1
+phpstorm,phpstorm,tools zur sw-entwicklung und administration,119.0,5.4
+jdeveloper,jdeveloper,tools zur sw-entwicklung und administration,119.0,5.4
+genshin impact,impact,spezifische anwendungssoftware,120.0,5.5
+.net micro framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+windows workflow foundation,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+chromium embedded framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+windows presentation foundation,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+simulation open framework-architektur,simulation,zu allgemein,12.0,Z
+oracle multimedia,oracle,datenbanken ,50.0,5.3
+.net compact framework,framework,tools zur sw-entwicklung und administration,119.0,5.4
+.net compact framework,compact,tools zur sw-entwicklung und administration,119.0,5.4
+asp.net ajax,ajax,tools zur sw-entwicklung und administration,119.0,5.4
+asp.net ajax,asp.net,tools zur sw-entwicklung und administration,119.0,5.4
+opera mobile store,opera,standard-bürosoftware ,42.0,5.1
+iphone os 2,os,"betriebssysteme, systemsoftware ",46.0,5.2
+iphone os 2,iphone,"handy, funkgerät, personenrufgerät ",55.0,6.2
+blackberry z10,blackberry,"handy, funkgerät, personenrufgerät ",55.0,6.2
+minitab,minitab,spezifische anwendungssoftware,120.0,5.5
+adobe content server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+final fantasy xv,final,spezifische anwendungssoftware,120.0,5.5
+ubisoft connect,connect,zu allgemein,12.0,Z
+ubuntu one,ubuntu,"betriebssysteme, systemsoftware ",46.0,5.2
+fujitsu cloud iaas trusted public s5,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+fujitsu cloud iaas trusted public s5,iaas,"betriebssysteme, systemsoftware ",46.0,5.2
+apache cloudstack,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+adobe experience cloud,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+orionvm wholesale cloud platform 1,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+cloud foundry,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+opennebula,opennebula,tools zur sw-entwicklung und administration,119.0,5.4
+ibm cloud,cloud,"server, netzwerktechnik inkl. software",31.0,4.3
+symantec operations readiness tools,symantec,keine arbeitsmittel,10.0,K
+apache brooklyn,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+gnu affero general public license,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+cisco nx-os,cisco,"server, netzwerktechnik inkl. software",31.0,4.3
+centos,centos,"betriebssysteme, systemsoftware ",46.0,5.2
+visual basic für anwendungen,basic,tools zur sw-entwicklung und administration,119.0,5.4
+apache shiro,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+times higher education world university rankings,world,spezifische anwendungssoftware,120.0,5.5
+qs world university rankings,world,spezifische anwendungssoftware,120.0,5.5
+finanzsoftware,finanzsoftware,spezifische anwendungssoftware,120.0,5.5
+haxi  apps  1,apps,zu allgemein,12.0,Z
+buch der zaubertränke,buch,zu allgemein,12.0,Z
+apache taverne,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+david,david,spezifische anwendungssoftware,120.0,5.5
+azure cognitive search,azure,spezifische anwendungssoftware,120.0,5.5
+corel photo-paint,corel,spezifische anwendungssoftware,120.0,5.5
+adobe lightroom,lightroom,spezifische anwendungssoftware,120.0,5.5
+chasys draw ies,draw,spezifische anwendungssoftware,120.0,5.5
+java card openplatform,card,spezifische anwendungssoftware,120.0,5.5
+java card openplatform,java,tools zur sw-entwicklung und administration,119.0,5.4
+lightwave 3d,3d,zu allgemein,12.0,Z
+nagios,nagios,spezifische anwendungssoftware,120.0,5.5
+pandora fms,fms,spezifische anwendungssoftware,120.0,5.5
+openlife grid,grid,anlagen zur energieerzeugung und -umwandlung ,24.0,2.4
+dark they were und golden eyed (buchhandlung),golden,datenbanken ,50.0,5.3
+sol rezza,sol,tools zur sw-entwicklung und administration,119.0,5.4
+mat brinkman,mat,keine arbeitsmittel,10.0,K
+coda (webentwicklungssoftware),coda,spezifische anwendungssoftware,120.0,5.5
+adobe edge,edge,spezifische anwendungssoftware,120.0,5.5
+caesar iv,caesar,spezifische anwendungssoftware,120.0,5.5
+microsoft windows xp,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+mac os x tiger,os,"betriebssysteme, systemsoftware ",46.0,5.2
+windows dvd maker,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows sideshow,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows cardspace,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+windows anytime-upgrade,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+gnu linear programming kit,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+mathcad,mathcad,spezifische anwendungssoftware,120.0,5.5
+qt (software) qt-software 1,qt,tools zur sw-entwicklung und administration,119.0,5.4
+cron,cron,"server, netzwerktechnik inkl. software",31.0,4.3
+altair basic,altair,spezifische anwendungssoftware,120.0,5.5
+altair basic,basic,tools zur sw-entwicklung und administration,119.0,5.4
+windows live mesh,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+firefox senden,firefox,standard-bürosoftware ,42.0,5.1
+xfire,xfire,tools zur sw-entwicklung und administration,119.0,5.4
+rsync,rsync,"server, netzwerktechnik inkl. software",31.0,4.3
+windows live mesh windows live mesh 1,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+powerbuilder,powerbuilder,tools zur sw-entwicklung und administration,119.0,5.4
+lotus eaters (band),lotus,standard-bürosoftware ,42.0,5.1
+jojo worthington,jojo,spezifische anwendungssoftware,120.0,5.5
+david blink,david,spezifische anwendungssoftware,120.0,5.5
+david daniell (musiker),david,spezifische anwendungssoftware,120.0,5.5
+micro focus application lifecycle management,focus,keine arbeitsmittel,10.0,K
+apache struts,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+ptc creo,creo,spezifische anwendungssoftware,120.0,5.5
+ptc creo,ptc,keine arbeitsmittel,10.0,K
+bricscad,bricscad,spezifische anwendungssoftware,120.0,5.5
+autocad-architektur,autocad-architektur,spezifische anwendungssoftware,120.0,5.5
+leinwand x,leinwand,einfaches handwerkzeug ,15.0,1.1
+microstation,microstation,spezifische anwendungssoftware,120.0,5.5
+corelcad,corelcad,spezifische anwendungssoftware,120.0,5.5
+autodesk 123d,autodesk,spezifische anwendungssoftware,120.0,5.5
+remo 3d,3d,zu allgemein,12.0,Z
+t-flex cad,cad,spezifische anwendungssoftware,120.0,5.5
+graphisoft bim-server,graphisoft,spezifische anwendungssoftware,120.0,5.5
+autodesk inventor,autodesk,spezifische anwendungssoftware,120.0,5.5
+autodesk inventor,inventor,spezifische anwendungssoftware,120.0,5.5
+optische designsoftware von photopia,designsoftware,spezifische anwendungssoftware,120.0,5.5
+pdms (software),pdms,spezifische anwendungssoftware,120.0,5.5
+realsoft 3d,3d,zu allgemein,12.0,Z
+malen sie 3d,3d,zu allgemein,12.0,Z
+microsoft 3d viewer,3d,zu allgemein,12.0,Z
+java anon-proxy,java,tools zur sw-entwicklung und administration,119.0,5.4
+apache openmeetings,apache,"server, netzwerktechnik inkl. software",31.0,4.3
+macromedia,macromedia,spezifische anwendungssoftware,120.0,5.5
+adaptive server enterprise,server,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft azure sql-datenbank,azure,spezifische anwendungssoftware,120.0,5.5
+microsoft azure sql-datenbank,sql-datenbank,datenbanken ,50.0,5.3
+sql server express,server,"server, netzwerktechnik inkl. software",31.0,4.3
+sql server express,sql,datenbanken ,50.0,5.3
+nt lan manager,lan,"server, netzwerktechnik inkl. software",31.0,4.3
+nt lan manager,nt,"betriebssysteme, systemsoftware ",46.0,5.2
+sql server compact,server,"server, netzwerktechnik inkl. software",31.0,4.3
+sql server compact,sql,datenbanken ,50.0,5.3
+sql server compact,compact,tools zur sw-entwicklung und administration,119.0,5.4
+microsoft windows server,server,"server, netzwerktechnik inkl. software",31.0,4.3
+microsoft windows server,windows,"betriebssysteme, systemsoftware ",46.0,5.2
+sql server management studio,server,"server, netzwerktechnik inkl. software",31.0,4.3
+sql server management studio,sql,datenbanken ,50.0,5.3
+quarkxpress,quarkxpress,spezifische anwendungssoftware,120.0,5.5
+gnu social,gnu,tools zur sw-entwicklung und administration,119.0,5.4
+3d dot game heroes,dot,tools zur sw-entwicklung und administration,119.0,5.4
+3d dot game heroes,3d,zu allgemein,12.0,Z
+ace of spades (videospiel),ace,spezifische anwendungssoftware,120.0,5.5
+duke nukem 3d,3d,zu allgemein,12.0,Z
+maui cluster scheduler,cluster,zu allgemein,12.0,Z
+lojack für laptops,laptops,"pc, laptop, notebook, tablet ",29.0,4.1
+arcgis,arcgis,spezifische anwendungssoftware,120.0,5.5
+geonetwork opensource,opensource,keine arbeitsmittel,10.0,K
+yellow dog linux,linux,"betriebssysteme, systemsoftware ",46.0,5.2
+zonenübergreifendes scripting,scripting,keine arbeitsmittel,10.0,K
+angularjs,angularjs,tools zur sw-entwicklung und administration,119.0,5.4
+schwebepanzer 3d,3d,zu allgemein,12.0,Z
+microsoft speech server,server,"server, netzwerktechnik inkl. software",31.0,4.3
