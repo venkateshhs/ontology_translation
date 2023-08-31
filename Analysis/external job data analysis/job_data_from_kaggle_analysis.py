@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 nlp = spacy.load("en_core_web_sm")
 
 # Load tool data from CSV
-tool_data_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\tool_fetch_dbpedia\Second Revison\dbpedia_tools_with_translations_alt_labels_FINAL.csv"
+tool_data_path = r"/ontology_translation/tool_fetch_dbpedia/Second Revison/dbpedia_tools_with_translations_alt_labels_FINAL.csv"
 tool_data_df = pd.read_csv(tool_data_path, encoding="ISO-8859-1-")
 
 
@@ -57,7 +57,7 @@ underscore_remove_list = [word.replace('_', ' ') for word in split_tool_list_fil
 split_tool_list_unique = list(set(underscore_remove_list))
 
 # Load job data from CSV
-job_data_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\2018-04\merged_job_data_2018_04.csv"
+job_data_path = r"/ontology_translation/Job_Data/2018-04/merged_job_data_2018_04.csv"
 job_data_df = pd.read_csv(job_data_path)
 
 # Initialize the PhraseMatcher
@@ -95,7 +95,7 @@ for job_text in job_data_df["merged_text"]:
 matched_results_df = pd.DataFrame(matched_results)
 
 # # Save the DataFrame to a CSV file
-output_csv_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\2018-04\2018_04_matched.csv"
+output_csv_path = r"/ontology_translation/Job_Data/2018-04/2018_04_matched.csv"
 matched_results_df.to_csv(output_csv_path, index=False)
 #
 print("Matched results saved to CSV:", output_csv_path)
@@ -108,7 +108,7 @@ unique_matched_tools = list(set(all_matched_tools))
 unique_matched_tools_df = pd.DataFrame({"Unique Matched Tools": unique_matched_tools})
 
 # Save the DataFrame to a CSV file
-unique_matched_tools_csv_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\2018-04\2018_04_matched_unique.csv"
+unique_matched_tools_csv_path = r"/ontology_translation/Job_Data/2018-04/2018_04_matched_unique.csv"
 unique_matched_tools_df.to_csv(unique_matched_tools_csv_path, index=False)
 
 print("Unique matched tools saved to CSV:", unique_matched_tools_csv_path)

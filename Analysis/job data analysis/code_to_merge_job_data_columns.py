@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Path to the CSV file (with the same filename)
-csv_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\2022-04\2022-04.csv"
+csv_path = r"/ontology_translation/Job_Data/2022-04/2022-04.csv"
 
 # Columns to extract text from
 columns_to_extract = ["full_text", "full_text_1", "full_text_2", "full_text_3", "full_text_4"]
@@ -20,7 +20,7 @@ def merge_columns(row):
 df["merged_text"] = df.apply(merge_columns, axis=1)
 
 # Save the merged DataFrame to a new CSV file
-merged_csv_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\2022-04\merged_job_data_2022_04.csv"
+merged_csv_path = r"/ontology_translation/Job_Data/2022-04/merged_job_data_2022_04.csv"
 df.to_csv(merged_csv_path, index=False)
 
 # Print the DataFrame to ensure we have the correct data
