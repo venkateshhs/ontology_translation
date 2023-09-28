@@ -1,0 +1,448 @@
+Unique Matched Tools,Top Domain,First Domain
+country,education,elearning
+country,education,e - learnings
+country,computer science,computer system
+country,education,e-learning
+country,computer science,computer systems
+country,semantics,semantic technology
+country,semantics,semantic technologies
+country,linguistics,formal languages
+country,semantics,ontologies
+country,computer science,artificial intelligence
+country,semantics,ontology
+country,semantics,semantic web applications
+country,semantics,semantic web technology
+country,semantics,semantic web technologies
+country,semantics,knowledge representation
+country,computer science,internet
+country,semantics,semantic web
+country,computer science,theoretical computer science
+public administration,sociology,social science
+public administration,sociology,social status
+public administration,sociology,social aspect
+public administration,sociology,social psychology
+public administration,sociology,social support
+public administration,sociology,social sciences
+public administration,computer science,bioinformatics
+public administration,computer science,computer imaging and vision
+public administration,computer science,artificial intelligence
+public administration,computer science,medical informatics
+public administration,computer science,computer system
+public administration,computer science,computer systems
+microsoft office,computer science,computer networks
+microsoft office,computer science,computer communication networks
+microsoft office,computer science,hardware
+microsoft office,computer science,computer system
+microsoft office,computer science,computer network
+microsoft office,computer science,computer systems
+microsoft office,computer science,computer hardware
+microsoft office,computer science,software engineering
+microsoft office,computer science,computer programming
+microsoft office,education,curricula
+microsoft office,computer science,artificial intelligence
+microsoft office,mathematics,finite element method
+microsoft office,mathematics,boolean functions
+microsoft office,mathematics,statistics
+microsoft office,computer science,operating systems
+microsoft office,computer science,computer operating systems
+microsoft office,computer science,computer aided design
+microsoft office,computer science,computer imaging and vision
+microsoft office,education,curriculum
+microsoft office,mathematics,statistical model
+microsoft office,mathematics,regression analysis
+microsoft office,computer science,internet
+microsoft office,computer science,software
+microsoft office,mathematics,maximum likelihood estimation
+microsoft office,engineering,automation
+microsoft office,engineering,signal processing
+microsoft office,mathematics,statistical analysis
+microsoft office,computer science,computer aided design %28cad%29
+microsoft office,mathematics,correlation analysis
+microsoft office,computer science,computer-aided design
+microsoft office,computer science,human-computer interaction
+microsoft office,computer science,robotics
+microsoft office,computer science,theoretical computer science
+microsoft office,mathematics,probability
+microsoft office,computer science,computer security
+microsoft office,computer science,human computer interaction
+microsoft office,computer science,operating system
+microsoft office,mathematics,boolean function
+microsoft office,computer science,cad
+microsoft office,economics,commerce
+microsoft office,education,e - learnings
+microsoft office,mathematics,optimization
+microsoft office,economics,health expenditures
+microsoft office,computer science,information retrieval
+microsoft office,economics,sales
+microsoft office,mathematics,numerical analysis
+microsoft office,education,elearning
+microsoft office,mathematics,matrix algebra
+microsoft office,mathematics,numerical method
+microsoft office,mathematics,numerical methods
+microsoft office,education,e-learning
+microsoft office,computer science,information technology
+microsoft office,economics,investments
+microsoft office,mathematics,control theory
+microsoft office,economics,investment
+microsoft office,semantics,semantic web applications
+pdf,computer science,computer programming
+email,computer science,computer networks
+email,computer science,computer communication networks
+email,computer science,computer system
+email,computer science,computer network
+email,computer science,computer systems
+email,computer science,computer security
+email,computer science,data mining
+email,computer science,internet
+email,computer science,information technology
+email,computer science,human-computer interaction
+email,computer science,human computer interaction
+email,economics,sales
+email,computer science,information retrieval
+email,economics,commerce
+email,computer science,hardware
+email,computer science,computer hardware
+email,computer science,operating systems
+email,computer science,computer operating systems
+email,computer science,operating system
+email,computer science,computer programming
+email,semantics,natural language
+email,computer science,artificial intelligence
+email,linguistics,natural languages
+email,computer science,computer imaging and vision
+email,computer science,medical informatics
+email,computer science,software
+email,computer science,bioinformatics
+email,semantics,natural languages
+email,linguistics,natural language
+email,mathematics,probability
+email,engineering,signal processing
+email,computer science,software engineering
+email,education,elearning
+email,education,e - learnings
+email,education,e-learning
+email,linguistics,computer-assisted language learning
+email,education,educational technology
+email,education,educational technologies
+email,engineering,telephony
+email,engineering,telephone
+email,linguistics,speech communication
+email,mathematics,statistical analysis
+email,mathematics,statistical model
+email,mathematics,correlation analysis
+email,mathematics,regression analysis
+email,mathematics,statistics
+email,communication,anonymous communication
+ball,computer science,human-computer interaction
+ball,computer science,human computer interaction
+ball,computer science,computer imaging and vision
+ball,computer science,computer system
+ball,computer science,internet
+ball,computer science,computer systems
+ball,computer science,bioinformatics
+ball,computer science,medical informatics
+ball,computer science,computer networks
+ball,computer science,artificial intelligence
+ball,mathematics,finite element method
+ball,engineering,fault detection
+ball,engineering,electricity
+ball,mathematics,numerical analysis
+ball,computer science,computer aided design
+ball,mathematics,matrix algebra
+ball,mathematics,numerical method
+ball,computer science,software engineering
+ball,computer science,software
+ball,mathematics,numerical methods
+ball,engineering,automation
+ball,engineering,signal processing
+ball,computer science,computer aided design %28cad%29
+ball,computer science,computer-aided design
+ball,computer science,robotics
+ball,mathematics,probability
+ball,computer science,computer communication networks
+ball,computer science,hardware
+ball,computer science,computer network
+ball,computer science,computer hardware
+ball,computer science,cad
+ball,education,elearning
+ball,education,e - learnings
+ball,education,e-learning
+ball,computer science,operating systems
+ball,computer science,computer operating systems
+ball,computer science,computer security
+ball,computer science,operating system
+ball,computer science,computer programming
+google,computer science,computer networks
+google,computer science,computer communication networks
+google,computer science,computer system
+google,computer science,computer network
+google,computer science,computer systems
+google,computer science,computer security
+google,computer science,data mining
+google,computer science,internet
+google,computer science,information technology
+google,computer science,computer imaging and vision
+google,computer science,artificial intelligence
+google,economics,commerce
+google,computer science,computer programming
+google,computer science,operating systems
+google,computer science,computer operating systems
+google,computer science,operating system
+google,computer science,human-computer interaction
+google,computer science,human computer interaction
+google,computer science,computer hardware
+google,computer science,hardware
+google,mathematics,statistical analysis
+google,mathematics,statistical model
+google,mathematics,correlation analysis
+google,mathematics,matrix algebra
+google,mathematics,regression analysis
+google,mathematics,statistics
+google,computer science,bioinformatics
+google,computer science,medical informatics
+google,computer science,software engineering
+google,education,curricula
+google,education,e - learnings
+google,mathematics,optimization
+google,economics,health expenditures
+google,computer science,information retrieval
+google,economics,sales
+google,mathematics,numerical analysis
+google,education,elearning
+google,education,curriculum
+google,mathematics,numerical method
+google,mathematics,numerical methods
+google,engineering,automation
+google,engineering,signal processing
+google,education,e-learning
+google,computer science,robotics
+google,computer science,theoretical computer science
+google,economics,investments
+google,mathematics,probability
+google,mathematics,control theory
+google,economics,investment
+google,computer science,software
+google,linguistics,natural language
+google,semantics,natural language
+google,linguistics,natural languages
+google,semantics,natural languages
+google,engineering,telephony
+google,engineering,telephone
+google,mathematics,approximation theory
+google,communication,cloud service
+google,communication,cloud services
+google,mathematics,wavelet transforms
+google,mathematics,wavelet transform
+google,linguistics,speech communication
+catia,computer science,computer-aided design
+catia,computer science,cad
+catia,computer science,computer aided design
+catia,computer science,computer aided design %28cad%29
+catia,computer science,software engineering
+catia,computer science,computer imaging and vision
+radius,computer science,computer system
+radius,computer science,human-computer interaction
+radius,computer science,internet
+radius,computer science,human computer interaction
+radius,computer science,computer systems
+radius,computer science,computer networks
+radius,computer science,computer communication networks
+radius,computer science,computer network
+radius,computer science,computer security
+radius,computer science,computer imaging and vision
+radius,engineering,signal processing
+radius,computer science,artificial intelligence
+radius,computer science,hardware
+radius,computer science,computer hardware
+radius,engineering,vehicles
+.zip,computer science,computer aided design
+.zip,computer science,computer imaging and vision
+.zip,computer science,computer aided design %28cad%29
+.zip,computer science,computer-aided design
+.zip,computer science,hardware
+.zip,communication,information theory
+.zip,computer science,computer hardware
+.zip,computer science,cad
+.zip,computer science,operating systems
+.zip,computer science,operating system
+.zip,computer science,computer operating systems
+.zip,computer science,computer systems
+.zip,computer science,computer system
+.zip,mathematics,digital arithmetic
+.gz,computer science,software engineering
+.gz,computer science,software
+.gz,computer science,computer programming
+mobile,computer science,computer networks
+mobile,computer science,computer communication networks
+mobile,computer science,computer system
+mobile,computer science,computer network
+mobile,computer science,computer systems
+mobile,computer science,robotics
+mobile,computer science,artificial intelligence
+mobile,computer science,computer hardware
+mobile,computer science,hardware
+mobile,mathematics,probability
+mobile,engineering,signal processing
+mobile,economics,commerce
+mobile,computer science,internet
+mobile,computer science,information technology
+mobile,computer science,bioinformatics
+mobile,computer science,computer imaging and vision
+mobile,computer science,medical informatics
+mobile,computer science,human-computer interaction
+mobile,computer science,human computer interaction
+mobile,engineering,telephony
+mobile,engineering,telephone
+mobile,computer science,computer security
+mobile,computer science,operating systems
+mobile,computer science,operating system
+mobile,computer science,computer operating systems
+mobile,linguistics,speech communication
+mobile,communication,augmentative and alternative communication %28aac%29
+mobile,communication,augmentative and alternative communication
+mobile,linguistics,natural language
+mobile,semantics,natural language
+mobile,linguistics,natural languages
+mobile,computer science,data mining
+mobile,semantics,natural languages
+mobile,computer science,information retrieval
+mobile,computer science,computer programming
+limited,computer science,bioinformatics
+limited,computer science,computer imaging and vision
+limited,computer science,medical informatics
+limited,computer science,computer system
+limited,computer science,human-computer interaction
+limited,computer science,human computer interaction
+limited,computer science,computer systems
+limited,computer science,internet
+limited,computer science,information technology
+create,computer science,human-computer interaction
+create,computer science,human computer interaction
+create,computer science,computer systems
+create,computer science,computer system
+create,computer science,internet
+create,computer science,artificial intelligence
+create,computer science,computer networks
+create,education,elearning
+create,computer science,computer communication networks
+create,education,e - learnings
+create,education,e-learning
+create,computer science,computer network
+software,computer science,human-computer interaction
+software,computer science,human computer interaction
+software,computer science,computer imaging and vision
+software,computer science,computer programming
+software,computer science,hardware
+software,computer science,computer system
+software,computer science,computer systems
+software,computer science,computer hardware
+software,linguistics,type system
+software,linguistics,type systems
+software,computer science,computer networks
+software,computer science,computer communication networks
+software,computer science,computer network
+software,computer science,internet
+software,computer science,computer security
+software,computer science,data mining
+software,computer science,information technology
+software,computer science,artificial intelligence
+software,computer science,information retrieval
+software,computer science,software engineering
+software,mathematics,matrix algebra
+software,computer science,software
+software,engineering,automation
+software,mathematics,numerical analysis
+software,mathematics,numerical methods
+software,mathematics,numerical method
+software,computer science,robotics
+software,mathematics,statistical analysis
+software,mathematics,statistical model
+software,mathematics,correlation analysis
+software,mathematics,regression analysis
+software,mathematics,statistics
+software,computer science,theoretical computer science
+software,computer science,operating systems
+software,computer science,computer operating systems
+software,computer science,operating system
+software,linguistics,speech communication
+software,communication,augmentative and alternative communication %28aac%29
+software,communication,augmentative and alternative communication
+software,computer science,computer aided design
+software,computer science,computer aided design %28cad%29
+software,computer science,computer-aided design
+software,communication,information theory
+software,computer science,cad
+software,mathematics,partial differential equation
+software,mathematics,probability
+software,mathematics,partial differential equations
+software,mathematics,partial differential equations %28pde%29
+software,mathematics,partial differential
+software,engineering,signal processing
+software,education,curricula
+software,education,elearning
+software,education,curriculum
+software,education,e - learnings
+software,education,e-learning
+software,engineering,vehicles
+software,semantics,natural language
+software,linguistics,natural languages
+software,computer science,medical informatics
+software,computer science,bioinformatics
+software,semantics,natural languages
+software,linguistics,natural language
+software,engineering,electricity
+software,linguistics,object constraint language
+software,semantics,semantic technology
+software,semantics,semantic technologies
+software,linguistics,formal languages
+software,semantics,ontologies
+software,semantics,ontology
+software,semantics,semantic web applications
+software,semantics,semantic web technology
+software,semantics,semantic web technologies
+software,semantics,knowledge representation
+software,semantics,semantic web
+software,mathematics,finite element method
+software,mathematics,boolean functions
+software,mathematics,maximum likelihood estimation
+software,mathematics,boolean function
+software,education,teaching process
+software,education,teaching model
+software,education,teaching quality
+software,education,new teaching
+software,education,teaching practices
+software,mathematics,wavelet transforms
+software,mathematics,wavelet transform
+software,economics,commerce
+software,mathematics,optimization
+software,economics,health expenditures
+software,economics,sales
+software,economics,investments
+software,mathematics,control theory
+software,economics,investment
+software,communication,machine to machines
+software,mathematics,curve fitting
+software,engineering,telephony
+software,engineering,telephone
+software,mathematics,approximation theory
+software,geometry,data cubes
+software,geometry,data cube
+software,linguistics,object-oriented languages
+software,linguistics,computer-assisted language learning
+software,communication,cloud service
+software,communication,cloud services
+software,mathematics,digital arithmetic
+software,education,educational technology
+software,education,educational technologies
+software,linguistics,translation %28languages%29
+software,linguistics,computer assisted language learning
+software,linguistics,programming languages
+software,linguistics,programming language
+software,linguistics,functional languages
+software,linguistics,meta-programming
+software,geology,hyper-spectral images
+software,geology,hyperspectral imagery
+software,geology,hyperspectral image
+software,geology,hyperspectral images
+vob,computer science,internet
+vob,computer science,computer imaging and vision
