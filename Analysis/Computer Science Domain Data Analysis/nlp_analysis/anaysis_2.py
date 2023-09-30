@@ -2,7 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-results_df = pd.read_csv(r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\431\nlp\job_advertisement_growth.csv')
+results_df = pd.read_csv(r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\431\microsoft\job_advertisement_growth.csv')
 
 
 results_df.set_index('Year', inplace=True)
@@ -31,7 +31,7 @@ legend_labels = [plt.Line2D([0], [0], color=custom_palette[i], lw=4, label=tool)
 plt.legend(handles=legend_labels, title='Matched Tools', loc='upper left', bbox_to_anchor=(1, 1))
 
 # Save the plot as an image
-image_path = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\431\nlp\stacked_bar_plot_2.png'
+image_path = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\431\microsoft\stacked_bar_plot_2.png'
 plt.tight_layout()
 plt.savefig(image_path, bbox_inches='tight')
 

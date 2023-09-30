@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 # Load the results from the CSV file
-results_df = pd.read_csv(r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\7126\job_advertisement_growth.csv')
+results_df = pd.read_csv(r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\7126\microsoft\job_advertisement_growth.csv')
 
 
 # Extract the years and matched tools columns
@@ -13,15 +13,17 @@ total_matched_per_year = results_df.iloc[:, 1:].sum(axis=1).values
 
 # Calculate the number of different tools matched for each year
 different_tools_per_year = results_df.iloc[:, 1:].gt(0).sum(axis=1).values
-
+print(different_tools_per_year)
 # Create line graphs for both statistics
 plt.figure(figsize=(12, 6))
 
-# Plot the total number of tools matched for each year
-plt.plot(years, total_matched_per_year, marker='o', linestyle='-', label='Total Tools Matched', color='blue')
-
 # Plot the number of different tools matched for each year
 plt.plot(years, different_tools_per_year, marker='o', linestyle='-', label='Different Tools Matched', color='green')
+# Plot the total number of tools matched for each year
+plt.plot(years, total_matched_per_year, marker='o', linestyle='-', label='Total Tools Matched', color='blue')
+for i, value in enumerate(different_tools_per_year):
+    plt.annotate(f'{value}', (years[i], value), textcoords="offset points", xytext=(0,10), ha='center')
+
 
 # Add labels and legends
 plt.title('Total vs. Different Tools Matched for Each Year (2015-2022)')
@@ -30,7 +32,7 @@ plt.ylabel('Count')
 plt.legend()
 
 # Save the plot as an image
-image_path = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\7126\job_advertisement_growth.png'
+image_path = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\7126\microsoft\job_advertisement_growth.png'
 plt.grid(True)
 plt.tight_layout()
 plt.savefig(image_path)
