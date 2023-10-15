@@ -73,19 +73,23 @@ def retrieve_domains(row):
     for column in df_merged.columns:
         column_values = df_merged[column]
         matching_rows = column_values[
-            column_values.notna() & column_values.str.contains(row['Parent_URL'], regex=False, case=False)]
+            column_values.notna() &
+            column_values.str.contains(row['Parent_URL'], regex=False, case=False)]
         if len(matching_rows) == 0:
-            same_as_match = cso_data[(cso_data['object'] == row['Parent_URL']) & (cso_data['relation'] == 'owl#sameas')]
+            same_as_match = cso_data[(cso_data['object'] == row['Parent_URL'])
+                                     & (cso_data['relation'] == 'owl#sameas')]
             subject_list = same_as_match['subject'].drop_duplicates().tolist()
             for subject in subject_list:
                 matching_rows = column_values[
                 column_values.notna() & column_values.str.contains(subject, regex=False, case=False)]
-                matching_domains = df_merged.loc[matching_rows.index, ['Domain 1', 'Domain 2']].drop_duplicates().values
+                matching_domains = df_merged.loc[matching_rows.index,
+                                                 ['Domain 1', 'Domain 2']].drop_duplicates().values
                 domain_values.extend(matching_domains)
                 if not matching_rows.empty:
                     print("Found")
         else:
-            matching_domains = df_merged.loc[matching_rows.index, ['Domain 1', 'Domain 2']].drop_duplicates().values
+            matching_domains = df_merged.loc[matching_rows.index,
+                                             ['Domain 1', 'Domain 2']].drop_duplicates().values
             domain_values.extend(matching_domains)
     return list(set(tuple(arr) for arr in domain_values))
 

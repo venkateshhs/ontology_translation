@@ -22,14 +22,11 @@ for subdirectory in subdirectories:
             # Load the results from the CSV file
             results_df = pd.read_csv(csv_file_path)
 
-            # Remove the 'Total Tools' column
-
-
             # Set the 'Year' column as the index
             results_df.set_index('Year', inplace=True)
 
-            # Transpose the DataFrame to have years as columns
-            results_df = results_df.transpose()
+            # Transpose the DataFrame to have matched tools as columns
+            #results_df = results_df.drop(columns='Total Tools')  # Drop the 'Total Tools' column
 
             # Create a custom color palette
             custom_palette = sns.color_palette("husl", len(results_df.columns))
@@ -52,7 +49,7 @@ for subdirectory in subdirectories:
             plt.legend(handles=legend_labels, title='Matched Tools', loc='upper left', bbox_to_anchor=(1, 1))
 
             # Save the plot as an image in the respective folder
-            image_path = os.path.join(parent_directory, subdirectory, folder, 'count_vs_tools.png')
+            image_path = os.path.join(parent_directory, subdirectory, folder, 'count_vs_year.png')
             plt.tight_layout()
             plt.savefig(image_path, bbox_inches='tight')
 
