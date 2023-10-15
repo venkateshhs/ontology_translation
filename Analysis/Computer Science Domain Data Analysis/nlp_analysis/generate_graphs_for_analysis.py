@@ -7,7 +7,7 @@ parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Da
 
 # List of subdirectories and CSV file names
 subdirectories = ['431', '7126']
-folders = ['AI', 'microsoft']
+folders = ['AI', 'microsoft', "ML"]
 csv_filename = 'job_advertisement_growth_normalised.csv'
 
 # Loop through the subdirectories and folders
