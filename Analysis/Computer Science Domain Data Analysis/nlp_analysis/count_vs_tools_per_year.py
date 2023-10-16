@@ -7,7 +7,7 @@ import seaborn as sns
 parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data'
 
 # List of subdirectories and CSV file names
-subdirectories = ['431', '7126']
+subdirectories = ['431', '7126', '7121', '8311']
 folders = ['AI', 'microsoft', 'ML']
 csv_filename = 'job_advertisement_growth.csv'
 

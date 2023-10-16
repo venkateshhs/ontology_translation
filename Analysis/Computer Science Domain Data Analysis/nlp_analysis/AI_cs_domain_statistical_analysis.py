@@ -6,7 +6,8 @@ from collections import defaultdict
 parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data'
 
 # List of subdirectories and CSV file names
-subdirectories = ['431', '7126']
+# subdirectories = ['431', '7126']
+subdirectories = ['431', '7126', '7121', '8311']
 # List of tools to match
 tools_to_match = [
     "TensorFlow", "PyTorch", "Scikit-learn", "Keras", "Caffe",

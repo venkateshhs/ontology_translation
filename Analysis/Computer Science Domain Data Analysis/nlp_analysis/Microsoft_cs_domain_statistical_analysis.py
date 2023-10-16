@@ -6,7 +6,7 @@ from collections import defaultdict
 parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data'
 
 # List of subdirectories and CSV file names
-subdirectories = ['431', '7126']
+subdirectories = ['431', '7126', '7121', '8311']
 
 tools_to_match = [
     "Windows 10",
@@ -62,7 +62,7 @@ tools_to_match = [
     "Microsoft Surface",
     "Xbox Series X",
     "Xbox Series S",
-     "Windows 8",
+    "Windows 8",
     "Windows 7",
     "Windows Server 2019",
     "Windows Server 2016",
