@@ -51,7 +51,7 @@ for subdirectory in subdirectories:
             plt.legend()
 
             # Save the plot as an image in the respective folder
-            plot_path = os.path.join(parent_directory, subdirectory, folder, 'job_advertisement_growth_normalised.png')
+            plot_path = os.path.join(parent_directory, subdirectory, folder, 'job_advertisement_growth_normalised_for_all_tools.png')
             plt.grid(True)
             plt.tight_layout()
             plt.savefig(plot_path)

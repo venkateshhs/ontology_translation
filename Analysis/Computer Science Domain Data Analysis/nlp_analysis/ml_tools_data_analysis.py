@@ -7,8 +7,15 @@ parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Da
 
 # List of subdirectories and CSV file names
 subdirectories = ['431', '7126', '7121', '8311']
+csv_file_path = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\results_ML.csv'
 
-tools_to_match = [
+# Read the CSV file
+df = pd.read_csv(csv_file_path)
+
+# Convert the values from the 'Tool Name' column to a Python list
+tool_names_list = df['Tool Name'].tolist()
+tools_to_match = tool_names_list
+tools_to_match = tools_to_match + [
     "H2O.ai",
     "DataRobot",
     "AutoKeras",
@@ -238,6 +245,7 @@ tools_to_match = [
     "Romeo_Model_Checker",
     "ECLAIR"
 ]
+tools_to_match = list(set([item.lower() for item in tools_to_match]))
 
 
 for subdirectory in subdirectories:
