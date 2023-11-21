@@ -3,7 +3,7 @@ import spacy
 from spacy.matcher import PhraseMatcher
 import string
 from nltk.corpus import stopwords
-
+import os
 # Load the spaCy NLP pipeline
 nlp = spacy.load("en_core_web_sm")
 
@@ -56,9 +56,6 @@ underscore_remove_list = [word.replace('_', ' ') for word in split_tool_list_fil
 # Remove duplicates using a set
 split_tool_list_unique = list(set(underscore_remove_list))
 
-# Load job data from CSV
-job_data_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\8311\2022\reduced_data_2022.csv"
-job_data_df = pd.read_csv(job_data_path)
 
 # Initialize the PhraseMatcher
 matcher = PhraseMatcher(nlp.vocab)
@@ -70,45 +67,64 @@ tool_patterns = [nlp(tool) for tool in split_tool_list_unique]
 for pattern in tool_patterns:
     matcher.add("ToolPatterns", None, pattern)
 
-matched_results = []
+root_directory = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\New data set"
+for folder_name in ["2514"]:#
+    folder_path = os.path.join(root_directory, folder_name)
 
-# Iterate through each job advertisement
-for job_text in job_data_df["merged_description"]:
-    job_text_lower = job_text.lower()
-    doc = nlp(job_text_lower)
+    # Iterate over the years (2015 to 2022)
+    for year in os.listdir(folder_path):
+        if int(year)<2021:
+            print(year)
+            continue
 
-    # Apply the matcher on the document
-    matches = matcher(doc)
+        year_folder_path = os.path.join(folder_path, year)
 
-    # Get matched tool names using the match IDs
-    matched_tools = [doc[start:end].text for match_id, start, end in matches]
+        # Check if the folder contains a CSV file
+        csv_file_path = os.path.join(year_folder_path, f"reduced_data_{year}.csv")
+        if os.path.exists(csv_file_path):
+            # Load job data from CSV
+            job_data_df = pd.read_csv(csv_file_path)
 
-    if matched_tools:
-        matched_results.append({"Job Advertisement": job_text_lower, "Matched Tools": matched_tools})
-        # print("Job Advertisement:", job_text_lower)
-        # print("Matched Tools:", matched_tools)
-        # print("=" * 40)
-    # else:
-    #     print("No matches found in the job advertisement.")
+            # Create lowercase patterns for each tool in the tool list
+            tool_patterns = [nlp(tool) for tool in split_tool_list_unique]
 
-# Create a DataFrame from the matched results
-matched_results_df = pd.DataFrame(matched_results)
+            # Add the patterns to the matcher
+            for pattern in tool_patterns:
+                matcher.add("ToolPatterns", None, pattern)
 
-# # Save the DataFrame to a CSV file
-output_csv_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\8311\2022\8311_2022_matched.csv"
-matched_results_df.to_csv(output_csv_path, index=False)
-#
-print("Matched results saved to CSV:", output_csv_path)
-all_matched_tools = [tool for tools_list in matched_results_df["Matched Tools"] for tool in tools_list]
+            matched_results = []
 
-# Convert the list to a set to remove duplicates
-unique_matched_tools = list(set(all_matched_tools))
+            # Iterate through each job advertisement
+            for job_text in job_data_df["merged_description"]:
+                job_text_lower = job_text.lower()
+                doc = nlp(job_text_lower)
 
-# Create a new DataFrame for the unique matched tools
-unique_matched_tools_df = pd.DataFrame({"Unique Matched Tools": unique_matched_tools})
+                # Apply the matcher on the document
+                matches = matcher(doc)
 
-# Save the DataFrame to a CSV file
-unique_matched_tools_csv_path = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\8311\2022\8311_2022_matched_matched_unique.csv"
-unique_matched_tools_df.to_csv(unique_matched_tools_csv_path, index=False)
+                # Get matched tool names using the match IDs
+                matched_tools = [doc[start:end].text for match_id, start, end in matches]
 
-print("Unique matched tools saved to CSV:", unique_matched_tools_csv_path)
+                if matched_tools:
+                    matched_results.append({"Job Advertisement": job_text_lower, "Matched Tools": matched_tools})
+
+            # Create a DataFrame from the matched results
+            matched_results_df = pd.DataFrame(matched_results)
+
+            # Save the DataFrame to a CSV file in the corresponding folder
+            output_csv_path = os.path.join(year_folder_path, f"{folder_name}_{year}_matched.csv")
+            matched_results_df.to_csv(output_csv_path, index=False)
+            print("Matched results saved to CSV:", output_csv_path)
+
+            # Extract unique matched tools from the results DataFrame
+            all_matched_tools = [tool for tools_list in matched_results_df["Matched Tools"] for tool in tools_list]
+            unique_matched_tools = list(set(all_matched_tools))
+
+            # Create a new DataFrame for the unique matched tools
+            unique_matched_tools_df = pd.DataFrame({"Unique Matched Tools": unique_matched_tools})
+
+            # Save the unique matched tools to a CSV file in the corresponding folder
+            unique_matched_tools_csv_path = os.path.join(year_folder_path, f"{folder_name}_{year}_matched_unique.csv")
+            unique_matched_tools_df.to_csv(unique_matched_tools_csv_path, index=False)
+            print("Unique matched tools saved to CSV:", unique_matched_tools_csv_path)
+

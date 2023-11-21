@@ -1,15 +1,16 @@
 import os
 import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
 
 # Define the parent directory path
 parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data'
 
 # List of subdirectories and CSV file names
 subdirectories = ['431', '7126', '7121', '8311', '2511', '2512', '2513', '2514','2519']
-folders = ['ML']# , 'AI', 'ML'
+folders = ['ML']
 csv_filename = 'job_advertisement_growth_normalised.csv'
+
+# Create an empty DataFrame to store the pivot table
+pivot_table_df = pd.DataFrame()
 
 # Loop through the subdirectories and folders
 for subdirectory in subdirectories:
@@ -24,24 +25,24 @@ for subdirectory in subdirectories:
 
             # Check if 'Total Tools' and 'Year' columns exist
             if 'Total Tools' in df.columns and 'Year' in df.columns:
-                # Extract 'Total Tools' and 'Year' columns as NumPy arrays
-                total_tools = np.array(df['Total Tools'])
-                year = np.array(df['Year'])
+                # Extract 'Total Tools' and 'Year' columns
+                subset_df = df[['Year', 'Total Tools']]
 
-                # Create a line graph
-                plt.figure(figsize=(10, 6))
-                plt.plot(year, total_tools, marker='o', linestyle='-')
-                plt.title(f'Percentage of different {folder} tools vs. Year in {subdirectory}/{folder}')
-                plt.xlabel('Year')
-                plt.ylabel('Percentage(Normalised to total job ads per year)')
-                plt.xticks(rotation=45)
+                # Create a pivot table
+                pivot_table = pd.pivot_table(subset_df, values='Total Tools', index=None, columns='Year', aggfunc='sum', fill_value=0)
 
-                # Save the plot in the respective folder
-                plot_path = os.path.join(parent_directory, subdirectory, folder, f'{subdirectory}_total_tools_vs_year_line_for_all_tools.png')
-                plt.savefig(plot_path, bbox_inches='tight')
+                # Add a column for subdirectory
+                pivot_table['Subdirectory'] = subdirectory
 
-                print(f'Line graph saved at: {plot_path}')
+                # Append the pivot table to the main DataFrame
+                pivot_table_df = pd.concat([pivot_table_df, pivot_table], ignore_index=True)
             else:
                 print(f'CSV file in {subdirectory}/{folder} does not contain "Total Tools" and "Year" columns.')
         else:
             print(f'CSV file not found in {subdirectory}/{folder}.')
+
+# Save the pivot table to a CSV file
+pivot_table_csv_path = os.path.join(parent_directory, 'ML_percentage_pivot_table_result.csv')
+pivot_table_df.to_csv(pivot_table_csv_path, index=False)
+
+print(f'Pivot table saved at: {pivot_table_csv_path}')

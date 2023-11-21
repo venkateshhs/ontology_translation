@@ -6,7 +6,7 @@ from collections import defaultdict
 parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data'
 
 # List of subdirectories and CSV file names
-subdirectories = ['431', '7126', '7121', '8311']
+subdirectories = ['431', '7126', '7121', '8311', '2511', '2512', '2513', '2514','2519']
 
 tools_to_match = [
     "Windows 10",
@@ -185,20 +185,27 @@ for subdirectory in subdirectories:
             # Read the CSV file into a DataFrame
             df = pd.read_csv(csv_file_path)
             num_entries = len(df)
+            unique_job_matched_count = 0
             # Check if 'Matched Tools' column exists
             if 'Matched Tools' in df.columns:
                 # Iterate through the 'Matched Tools' column
                 for index, row in df.iterrows():
                     matched_tools = row['Matched Tools']
+
                     if isinstance(matched_tools, str):
                         # Split the comma-separated values
                         tools_list = matched_tools.split(',')
+                        tool_present = False
                         for tool in tools_list:
                             tool = tool.strip().lower()  # Convert to lowercase
                             for t in tools_to_match:
                                 if t.lower() in tool:
                                     yearly_counts[t] += 1
                                     yearly_counts_for_total[t] += 1
+                                    tool_present = True
+                        if tool_present:
+                            unique_job_matched_count +=1
+
                 for tool, count in yearly_counts.items():
                     if tool != 'Year':
                         yearly_counts[tool] = (count / num_entries) * 100
@@ -206,7 +213,7 @@ for subdirectory in subdirectories:
             # Create a dictionary for the yearly counts
             total_tools_matched = sum(yearly_counts_for_total.values()) - yearly_counts['Year']
             yearly_counts['Total Tools'] = (total_tools_matched / num_entries) * 100
-
+            yearly_counts["Percentage of Tools Matched"] = (unique_job_matched_count/num_entries) * 100
             yearly_counts['Year'] = year
 
             results_data.append(yearly_counts)

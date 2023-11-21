@@ -8,8 +8,16 @@ parent_directory = r'C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Da
 
 # List of subdirectories and CSV file names
 subdirectories = ['431', '7126', '7121', '8311', '2511', '2512', '2513', '2514','2519']
-folders = ['ML']# , 'AI', 'ML'
+folders = ['microsoft']# 'AI', 'ML'
 csv_filename = 'job_advertisement_growth_normalised.csv'
+
+# Create a color map for different subcategories
+color_map = {'431': 'blue', '7126': 'green', '7121': 'red', '8311': 'purple',
+             '2511': 'cyan', '2512': 'magenta', '2513': 'orange', '2514': 'pink', '2519': 'yellow'}
+
+
+# Create a line graph
+plt.figure(figsize=(10, 6))
 
 # Loop through the subdirectories and folders
 for subdirectory in subdirectories:
@@ -28,20 +36,25 @@ for subdirectory in subdirectories:
                 total_tools = np.array(df['Total Tools'])
                 year = np.array(df['Year'])
 
-                # Create a line graph
-                plt.figure(figsize=(10, 6))
-                plt.plot(year, total_tools, marker='o', linestyle='-')
-                plt.title(f'Percentage of different {folder} tools vs. Year in {subdirectory}/{folder}')
-                plt.xlabel('Year')
-                plt.ylabel('Percentage(Normalised to total job ads per year)')
-                plt.xticks(rotation=45)
+                # Plot the line with different colors for each subcategory
+                plt.plot(year, total_tools, marker='o', linestyle='-', label=f'{subdirectory}/{folder}', color=color_map[subdirectory])
 
-                # Save the plot in the respective folder
-                plot_path = os.path.join(parent_directory, subdirectory, folder, f'{subdirectory}_total_tools_vs_year_line_for_all_tools.png')
-                plt.savefig(plot_path, bbox_inches='tight')
-
-                print(f'Line graph saved at: {plot_path}')
+                print(f'Line graph added for {subdirectory}/{folder}')
             else:
                 print(f'CSV file in {subdirectory}/{folder} does not contain "Total Tools" and "Year" columns.')
         else:
             print(f'CSV file not found in {subdirectory}/{folder}.')
+
+# Add labels and legend
+plt.title('Percentage of Different Tools vs. Year for Different Job Sets')
+plt.xlabel('Year')
+plt.ylabel('Percentage (Normalized to total job ads per year)')
+plt.xticks(rotation=45)
+plt.legend()
+
+# Save the plot
+plot_path = os.path.join(parent_directory, 'microsoft_combined_total_tools_vs_year_line_for_all_tools.png')
+plt.savefig(plot_path, bbox_inches='tight')
+
+print(f'Combined line graph saved at: {plot_path}')
+plt.show()
