@@ -68,14 +68,11 @@ for pattern in tool_patterns:
     matcher.add("ToolPatterns", None, pattern)
 
 root_directory = r"C:\Users\Vishwas\Desktop\Thesis\ontology_translation\Job_Data\Computer Science Domain New Data\New data set"
-for folder_name in ["2514"]:#
+for folder_name in ['431', '7126', '7121', '8311', '2511', '2512', '2513', '2514','2519']:#
     folder_path = os.path.join(root_directory, folder_name)
 
     # Iterate over the years (2015 to 2022)
     for year in os.listdir(folder_path):
-        if int(year)<2021:
-            print(year)
-            continue
 
         year_folder_path = os.path.join(folder_path, year)
 
