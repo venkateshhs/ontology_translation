@@ -1,0 +1,7 @@
+Year,MATLAB,Jasper,Kubernetes,ROOT,Power BI,TensorFlow,Apache Spark,Hadoop,PyTorch,Scikit-learn
+2015,1,2.0,,,,,,,,
+2016,11,2.0,1.0,,,,,,,
+2017,2,2.0,,1.0,,,,,,
+2018,14,,,2.0,,,,,,
+2019,14,11.0,1.0,3.0,2.0,6.0,2.0,1.0,,
+2020,5,2.0,,1.0,,3.0,,,4.0,1.0
